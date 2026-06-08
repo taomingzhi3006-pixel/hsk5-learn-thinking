@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Dashboard from './pages/Dashboard';
 import LessonJourney from './pages/LessonJourney';
 import Step1Recognition from './pages/steps/Step1Recognition';
@@ -13,7 +13,7 @@ import Step6Assessment from './pages/steps/Step6Assessment';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Dashboard />} />
         <Route path="/lesson/:id" element={<LessonJourney />}>
@@ -28,7 +28,7 @@ function App() {
           <Route path="assessment" element={<Step6Assessment />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
