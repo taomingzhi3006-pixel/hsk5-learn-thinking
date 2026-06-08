@@ -1,0 +1,32 @@
+{
+  "milestones": [
+    {
+      "id": 1,
+      "time": "Mốc 1: Khởi đầu",
+      "hint": "Đài phát thanh tổ chức cuộc thi tìm cặp vợ chồng ân ái nhất. Có 3 cặp lọt vào vòng trong."
+    },
+    {
+      "id": 2,
+      "time": "Mốc 2: Cặp số 1 và số 2",
+      "hint": "Cặp 1 nói họ tương kính như tân. Cặp 2 kể về người chồng chăm sóc vợ liệt không phàn nàn, nhưng giám khảo thấy chưa đủ."
+    },
+    {
+      "id": 3,
+      "time": "Mốc 3: Cặp số 3",
+      "hint": "Người chồng ngủ quên trên vai vợ. Để chồng ngủ, người vợ từ bỏ cơ hội trả lời và nhường giải."
+    },
+    {
+      "id": 4,
+      "time": "Mốc 4: Kết quả",
+      "hint": "Chi tiết đập muỗi suốt đêm khiến mọi người cảm động. Họ giành được giải thưởng."
+    }
+  ],
+  "keywords": [
+    "电台", "恩爱", "入围", "评委", "相敬如宾", "瘫痪", "抱怨", "靠着", "肩膀", "放弃", "居然", "等待", "蚊子", "细节", "患难与共"
+  ],
+  "sampleSummary": {
+    "chinese": "电台举办了一次寻找最恩爱夫妻的活动，最终有三对夫妻入围。第一对夫妻相敬如宾，从来不吵架。第二对夫妻中，妻子瘫痪了，丈夫一直照顾她，没有抱怨过。但是，最让评委感动的是第三对夫妻。当时，丈夫的头靠在妻子的肩膀上睡着了。为了不叫醒丈夫，妻子居然放弃了比赛。原来，昨天半夜家里有很多蚊子，丈夫为了不让妻子被咬，打了一晚上的蚊子，所以太累了。这个细节让所有人感动。评委们认为，真正的爱往往体现在生活细节中，他们才是一对真正患难与共的夫妻，于是把奖发给了他们。",
+    "pinyin": "Diàntái jǔbàn le yícì xúnzhǎo zuì ēn'ài fūqī de huódòng, zuìzhōng yǒu sān duì fūqī rùwéi. Dì yī duì fūqī xiāngjìngrúbīn, cónglái bù chǎojià. Dì èr duì fūqī zhōng, qīzi tānhuàn le, zhàngfū yīzhí zhàogù tā, méiyǒu bàoyuàn guò. Dànshì, zuì ràng píngwěi gǎndòng de shì dì sān duì fūqī. Dāngshí, zhàngfū de tóu kào zài qīzi de jiānbǎng shàng shuìzháo le. Wèile bù jiàoxǐng zhàngfū, qīzi jūrán fàngqì le bǐsài. Yuánlái, zuótiān bànyè jiālǐ yǒu hěnduō wénzi, zhàngfū wèile bù ràng qīzi bèi yǎo, dǎ le yì wǎnshàng de wénzi, suǒyǐ tài lèi le. Zhège xìjié ràng suǒyǒu rén gǎndòng. Píngwěi men rènwéi, zhēnzhèng de ài wǎngwǎng tǐxiàn zài shēnghuó xìjié zhōng, tāmen cái shì yíduì zhēnzhèng huànnànyǔgòng de fūqī, yúshì bǎ jiǎng fā gěi le tāmen.",
+    "translation": "Đài phát thanh tổ chức một hoạt động tìm kiếm cặp vợ chồng ân ái nhất, cuối cùng có ba cặp lọt vào vòng trong. Cặp thứ nhất tương kính như tân, chưa bao giờ cãi nhau. Trong cặp thứ hai, người vợ bị liệt, người chồng luôn chăm sóc cô ấy, chưa từng phàn nàn. Tuy nhiên, điều khiến giám khảo cảm động nhất là cặp thứ ba. Lúc đó, đầu người chồng tựa vào vai vợ ngủ thiếp đi. Để không đánh thức chồng, người vợ lại có thể từ bỏ cuộc thi. Thì ra, nửa đêm hôm qua nhà có rất nhiều muỗi, người chồng để vợ không bị đốt đã đánh muỗi cả đêm, nên quá mệt. Chi tiết này khiến mọi người cảm động. Các giám khảo cho rằng, tình yêu đích thực thường thể hiện ở những chi tiết trong cuộc sống, họ mới là một cặp thực sự hoạn nạn có nhau, thế là đã trao giải cho họ."
+  }
+}

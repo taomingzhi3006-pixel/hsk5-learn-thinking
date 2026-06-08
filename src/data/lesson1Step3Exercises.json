@@ -1,0 +1,1351 @@
+[
+  {
+    "id": "d1",
+    "type": "dictation",
+    "text": "电台要选出一对最恩爱的夫妻。",
+    "translation": "Đài phát thanh muốn chọn ra một cặp vợ chồng ân ái nhất."
+  },
+  {
+    "id": "d2",
+    "type": "dictation",
+    "text": "对比后有三对夫妻入围。",
+    "translation": "Sau khi so sánh có ba cặp vợ chồng lọt vào vòng trong."
+  },
+  {
+    "id": "d3",
+    "type": "dictation",
+    "text": "评委叫第一对夫妻说说他俩是如何恩爱的。",
+    "translation": "Giám khảo bảo cặp vợ chồng thứ nhất nói xem hai người họ ân ái như thế nào."
+  },
+  {
+    "id": "d4",
+    "type": "dictation",
+    "text": "第一对夫妻说，几年了，他们从来没吵过架，相敬如宾。",
+    "translation": "Cặp vợ chồng thứ nhất nói, đã mấy năm nay, họ chưa từng cãi nhau, luôn tương kính như tân."
+  },
+  {
+    "id": "d5",
+    "type": "dictation",
+    "text": "评委听了暗暗点头。",
+    "translation": "Các giám khảo nghe xong thầm gật đầu."
+  },
+  {
+    "id": "d6",
+    "type": "dictation",
+    "text": "轮到第二对夫妻了。",
+    "translation": "Đến lượt cặp vợ chồng thứ hai."
+  },
+  {
+    "id": "d7",
+    "type": "dictation",
+    "text": "妻子生病瘫痪了，丈夫一直陪伴在她的身边，照顾她，从来没有抱怨过。",
+    "translation": "Người vợ lâm bệnh và bị liệt, người chồng luôn đồng hành bên cạnh, chăm sóc cô ấy, chưa từng phàn nàn."
+  },
+  {
+    "id": "d8",
+    "type": "dictation",
+    "text": "评委们听了很感动。",
+    "translation": "Các giám khảo nghe xong rất cảm động."
+  },
+  {
+    "id": "d9",
+    "type": "dictation",
+    "text": "终于轮到第三对夫妻上场了。",
+    "translation": "Cuối cùng cũng đến lượt cặp vợ chồng thứ ba lên sân khấu."
+  },
+  {
+    "id": "d10",
+    "type": "dictation",
+    "text": "但是等了很久没听到声音。",
+    "translation": "Nhưng đợi rất lâu không nghe thấy âm thanh gì."
+  },
+  {
+    "id": "d11",
+    "type": "dictation",
+    "text": "观众开始有些不耐烦了。",
+    "translation": "Khán giả bắt đầu có chút sốt ruột."
+  },
+  {
+    "id": "d12",
+    "type": "dictation",
+    "text": "原来，男人的头靠在女人的肩膀上睡着了。",
+    "translation": "Thì ra, đầu của người đàn ông đã tựa vào vai người phụ nữ và ngủ thiếp đi."
+  },
+  {
+    "id": "d13",
+    "type": "dictation",
+    "text": "评委正想大声喊醒那个男人，女人伸出一根手指放在嘴边，示意大家安静。",
+    "translation": "Giám khảo đang định gọi lớn đánh thức người đàn ông đó, người phụ nữ bèn đưa một ngón tay lên miệng, ra hiệu mọi người im lặng."
+  },
+  {
+    "id": "d14",
+    "type": "dictation",
+    "text": "女人用左手写下了歪歪扭扭的字，把纸条轻轻地递给了评委。",
+    "translation": "Người phụ nữ dùng tay trái viết ra những chữ xiêu vẹo, rồi nhẹ nhàng đưa tờ giấy cho giám khảo."
+  },
+  {
+    "id": "d15",
+    "type": "dictation",
+    "text": "评委看了一下，上面写着：",
+    "translation": "Giám khảo nhìn qua, bên trên viết:"
+  },
+  {
+    "id": "d16",
+    "type": "dictation",
+    "text": "“为了不影响丈夫睡觉，我放弃这次机会。”",
+    "translation": "\"Để không ảnh hưởng đến giấc ngủ của chồng, tôi từ bỏ cơ hội lần này.\""
+  },
+  {
+    "id": "d17",
+    "type": "dictation",
+    "text": "大家的脑袋里都充满了疑问。",
+    "translation": "Trong đầu mọi người đều đầy ắp những câu hỏi."
+  },
+  {
+    "id": "d18",
+    "type": "dictation",
+    "text": "评委问这位女士为什么放弃这次机会。",
+    "translation": "Giám khảo hỏi quý cô này tại sao lại từ bỏ cơ hội lần này."
+  },
+  {
+    "id": "d19",
+    "type": "dictation",
+    "text": "女士叙述了原因：昨天半夜家里飞来了很多蚊子。",
+    "translation": "Người phụ nữ thuật lại nguyên nhân: Nửa đêm hôm qua trong nhà bay vào rất nhiều muỗi."
+  },
+  {
+    "id": "d20",
+    "type": "dictation",
+    "text": "丈夫为了不让老婆被蚊子咬，打了一夜的蚊子，所以太累了。",
+    "translation": "Chồng cô để không cho vợ bị muỗi đốt, đã đập muỗi cả đêm, nên quá mệt mỏi."
+  },
+  {
+    "id": "d21",
+    "type": "dictation",
+    "text": "虽然半夜打蚊子有些吵，但妻子觉得很幸福。",
+    "translation": "Tuy nửa đêm đập muỗi có chút ồn ào, nhưng người vợ cảm thấy rất hạnh phúc."
+  },
+  {
+    "id": "d22",
+    "type": "dictation",
+    "text": "评委们认为，真正的爱往往体现在生活细节中，他们才是一对真正患难与共的夫妻。",
+    "translation": "Các giám khảo cho rằng, tình yêu đích thực thường thể hiện qua những chi tiết nhỏ trong cuộc sống, họ mới thực sự là một cặp vợ chồng hoạn nạn có nhau."
+  },
+  {
+    "id": "d23",
+    "type": "dictation",
+    "text": "这项比赛最终选出了最恩爱的夫妻，也就是第三对夫妻。",
+    "translation": "Cuộc thi này cuối cùng đã chọn ra cặp vợ chồng ân ái nhất, cũng chính là cặp vợ chồng thứ ba."
+  },
+  {
+    "id": "s1",
+    "type": "sentence",
+    "word": "细节",
+    "story": {
+      "hint": "Kể về việc 'tình yêu thể hiện ở những chi tiết nhỏ' trong bài khóa.",
+      "sampleAnswer": "评委们认为，真正的爱往往体现在生活细节中。",
+      "sampleTranslation": "Giám khảo cho rằng tình yêu đích thực thể hiện ở tiểu tiết."
+    },
+    "business": {
+      "hint": "Nói về việc cần kiểm tra kỹ từng chi tiết trước khi ký hợp đồng.",
+      "sampleAnswer": "在签订合同之前，我们需要仔细检查每一个细节。",
+      "sampleTranslation": "Trước khi ký hợp đồng, cần kiểm tra kỹ từng chi tiết."
+    }
+  },
+  {
+    "id": "s2",
+    "type": "sentence",
+    "word": "电台",
+    "story": {
+      "hint": "Sự kiện đài phát thanh tổ chức cuộc thi.",
+      "sampleAnswer": "电台举办了一次寻找最恩爱夫妻的活动。",
+      "sampleTranslation": "Đài phát thanh tổ chức sự kiện tìm cặp vợ chồng ân ái nhất."
+    },
+    "business": {
+      "hint": "Công ty quảng cáo sản phẩm trên đài phát thanh.",
+      "sampleAnswer": "我们公司打算在当地电台投放广告。",
+      "sampleTranslation": "Công ty chúng tôi dự định đặt quảng cáo trên đài phát thanh địa phương."
+    }
+  },
+  {
+    "id": "s3",
+    "type": "sentence",
+    "word": "恩爱",
+    "story": {
+      "hint": "Đài phát thanh muốn tìm cặp vợ chồng ân ái nhất.",
+      "sampleAnswer": "他们想选出一对最恩爱的夫妻。",
+      "sampleTranslation": "Họ muốn chọn ra một cặp vợ chồng ân ái nhất."
+    },
+    "business": {
+      "hint": "Hình ảnh đằm thắm của cặp đôi đại diện giúp tăng thiện cảm thương hiệu.",
+      "sampleAnswer": "代言人的恩爱形象有助于提升品牌的好感度。",
+      "sampleTranslation": "Hình ảnh đằm thắm của người đại diện giúp nâng cao thiện cảm thương hiệu."
+    }
+  },
+  {
+    "id": "s4",
+    "type": "sentence",
+    "word": "对比",
+    "story": {
+      "hint": "Sau khi so sánh, có 3 cặp lọt vào vòng trong.",
+      "sampleAnswer": "对比后，有三对夫妻成功入围。",
+      "sampleTranslation": "Sau khi so sánh, có 3 cặp vợ chồng lọt vào vòng trong thành công."
+    },
+    "business": {
+      "hint": "So sánh ưu nhược điểm của hai phương án.",
+      "sampleAnswer": "对比这两个方案的优缺点后，我们选择了第一个。",
+      "sampleTranslation": "Sau khi so sánh ưu khuyết điểm của hai phương án, chúng tôi đã chọn phương án thứ nhất."
+    }
+  },
+  {
+    "id": "s5",
+    "type": "sentence",
+    "word": "入围",
+    "story": {
+      "hint": "Có ba cặp vợ chồng lọt vào vòng trong của cuộc thi.",
+      "sampleAnswer": "最终有三对夫妻入围了决赛。",
+      "sampleTranslation": "Cuối cùng có 3 cặp vợ chồng lọt vào vòng chung kết."
+    },
+    "business": {
+      "hint": "Công ty chúng ta đã lọt vào danh sách đấu thầu của dự án.",
+      "sampleAnswer": "我们公司成功入围了那个重要项目。",
+      "sampleTranslation": "Công ty chúng ta đã lọt vào danh sách đấu thầu của dự án quan trọng đó."
+    }
+  },
+  {
+    "id": "s6",
+    "type": "sentence",
+    "word": "评委",
+    "story": {
+      "hint": "Giám khảo yêu cầu cặp thứ nhất kể về tình yêu của họ.",
+      "sampleAnswer": "评委叫第一对夫妻说说他们是如何恩爱的。",
+      "sampleTranslation": "Giám khảo bảo cặp thứ nhất nói xem họ ân ái như thế nào."
+    },
+    "business": {
+      "hint": "Ban giám khảo rất hài lòng với sản phẩm mới.",
+      "sampleAnswer": "评委们对我们的新产品非常满意。",
+      "sampleTranslation": "Ban giám khảo rất hài lòng với sản phẩm mới của chúng ta."
+    }
+  },
+  {
+    "id": "s7",
+    "type": "sentence",
+    "word": "如何",
+    "story": {
+      "hint": "Cặp thứ nhất kể xem họ ân ái như thế nào.",
+      "sampleAnswer": "第一对夫妻向大家讲述了他们是如何恩爱的。",
+      "sampleTranslation": "Cặp thứ nhất kể cho mọi người nghe họ ân ái ra sao."
+    },
+    "business": {
+      "hint": "Ngày mai họp bàn xem vấn đề này nên giải quyết thế nào.",
+      "sampleAnswer": "我们明天开会讨论这个问题该如何解决。",
+      "sampleTranslation": "Ngày mai chúng ta mở họp để thảo luận xem vấn đề này nên giải quyết ra sao."
+    }
+  },
+  {
+    "id": "s8",
+    "type": "sentence",
+    "word": "瘫痪",
+    "story": {
+      "hint": "Người vợ của cặp thứ hai bị liệt.",
+      "sampleAnswer": "第二对夫妻中，妻子生病瘫痪了。",
+      "sampleTranslation": "Trong cặp vợ chồng thứ hai, người vợ lâm bệnh bị liệt."
+    },
+    "business": {
+      "hint": "Do hệ thống mạng tê liệt, công việc bị đình trệ.",
+      "sampleAnswer": "由于系统瘫痪，整个公司的业务都停止了。",
+      "sampleTranslation": "Do hệ thống tê liệt, toàn bộ nghiệp vụ công ty đều dừng lại."
+    }
+  },
+  {
+    "id": "s9",
+    "type": "sentence",
+    "word": "离婚",
+    "story": {
+      "hint": "Dù khó khăn, họ không bao giờ nghĩ đến việc ly hôn.",
+      "sampleAnswer": "尽管生活很艰难，但他们从没想过离婚。",
+      "sampleTranslation": "Dù cuộc sống rất gian nan, họ chưa từng nghĩ đến việc ly hôn."
+    },
+    "business": {
+      "hint": "Hai nhà sáng lập vì không hợp quan điểm nên 'ly hôn', tách ra làm riêng.",
+      "sampleAnswer": "两位创始人因为理念不合决定“离婚”，分头创业。",
+      "sampleTranslation": "Hai nhà sáng lập vì không hợp quan điểm nên 'ly hôn', tách ra khởi nghiệp riêng."
+    }
+  },
+  {
+    "id": "s10",
+    "type": "sentence",
+    "word": "自杀",
+    "story": {
+      "hint": "Ngay cả lúc đau khổ nhất cũng không nghĩ đến tự sát.",
+      "sampleAnswer": "即使在最痛苦的时候，他们也没有想过自杀。",
+      "sampleTranslation": "Ngay cả lúc đau khổ nhất, họ cũng chưa từng nghĩ đến tự sát."
+    },
+    "business": {
+      "hint": "Chiến lược giảm giá vô tội vạ này chẳng khác nào tự sát trong kinh doanh.",
+      "sampleAnswer": "这种毫无底线的降价策略简直是商业自杀。",
+      "sampleTranslation": "Chiến lược giảm giá không giới hạn này chẳng khác nào tự sát trong kinh doanh."
+    }
+  },
+  {
+    "id": "s11",
+    "type": "sentence",
+    "word": "抱怨",
+    "story": {
+      "hint": "Người chồng chăm sóc vợ liệt mà không hề phàn nàn.",
+      "sampleAnswer": "丈夫一直照顾瘫痪的妻子，从来没有抱怨过。",
+      "sampleTranslation": "Người chồng luôn chăm sóc người vợ bị liệt mà chưa bao giờ phàn nàn."
+    },
+    "business": {
+      "hint": "Khách hàng luôn phàn nàn về dịch vụ của công ty.",
+      "sampleAnswer": "顾客总是抱怨这家公司的服务很差。",
+      "sampleTranslation": "Khách hàng luôn phàn nàn dịch vụ của công ty này rất tệ."
+    }
+  },
+  {
+    "id": "s12",
+    "type": "sentence",
+    "word": "爱护",
+    "story": {
+      "hint": "Họ yêu thương, bảo vệ lẫn nhau trong lúc hoạn nạn.",
+      "sampleAnswer": "他们在困难中互相爱护，让人感动。",
+      "sampleTranslation": "Họ yêu thương che chở cho nhau trong khó khăn, khiến người ta cảm động."
+    },
+    "business": {
+      "hint": "Công ty yêu cầu nhân viên bảo vệ tài sản chung.",
+      "sampleAnswer": "公司要求每一位员工都要爱护公共财物。",
+      "sampleTranslation": "Công ty yêu cầu mỗi nhân viên đều phải bảo vệ tài sản chung."
+    }
+  },
+  {
+    "id": "s13",
+    "type": "sentence",
+    "word": "婚姻",
+    "story": {
+      "hint": "Hôn nhân của họ đã vượt qua thử thách của bệnh tật.",
+      "sampleAnswer": "他们的婚姻经历了重病和时间的考验。",
+      "sampleTranslation": "Hôn nhân của họ đã trải qua thử thách của bạo bệnh và thời gian."
+    },
+    "business": {
+      "hint": "Sự sáp nhập của hai công ty như một cuộc hôn nhân môn đăng hộ đối.",
+      "sampleAnswer": "两家公司的合并，就像一场门当户对的商业婚姻。",
+      "sampleTranslation": "Sự sáp nhập của hai công ty giống như một cuộc hôn nhân thương mại."
+    }
+  },
+  {
+    "id": "s14",
+    "type": "sentence",
+    "word": "吵架",
+    "story": {
+      "hint": "Cặp vợ chồng đầu tiên nói họ kết hôn mười năm chưa từng cãi nhau.",
+      "sampleAnswer": "第一对夫妻说他们结婚十几年，从来没吵过架。",
+      "sampleTranslation": "Cặp thứ nhất nói họ kết hôn mười mấy năm chưa từng cãi nhau."
+    },
+    "business": {
+      "hint": "Các đối tác thường xuyên cãi vã sẽ ảnh hưởng xấu đến công ty.",
+      "sampleAnswer": "合伙人之间经常吵架会严重影响公司的发展。",
+      "sampleTranslation": "Các đối tác thường xuyên cãi vã sẽ ảnh hưởng nghiêm trọng công ty."
+    }
+  },
+  {
+    "id": "s15",
+    "type": "sentence",
+    "word": "相敬如宾",
+    "story": {
+      "hint": "Cặp đầu tiên luôn tương kính như tân.",
+      "sampleAnswer": "第一对夫妻一直相敬如宾，互相尊重。",
+      "sampleTranslation": "Cặp thứ nhất luôn tương kính như tân, tôn trọng lẫn nhau."
+    },
+    "business": {
+      "hint": "Hai công ty đối tác luôn hợp tác trên tinh thần tôn trọng như khách.",
+      "sampleAnswer": "这两家合作企业一直相敬如宾，互利共赢。",
+      "sampleTranslation": "Hai doanh nghiệp hợp tác luôn tôn trọng lẫn nhau, cùng có lợi."
+    }
+  },
+  {
+    "id": "s16",
+    "type": "sentence",
+    "word": "暗暗",
+    "story": {
+      "hint": "Nghe câu chuyện của cặp thứ hai, các giám khảo thầm gật đầu.",
+      "sampleAnswer": "听了第二对夫妻的故事，评委们暗暗点头。",
+      "sampleTranslation": "Nghe câu chuyện của cặp thứ hai, các giám khảo thầm gật đầu."
+    },
+    "business": {
+      "hint": "Hai công ty công nghệ đang ngấm ngầm so kè trên thị trường.",
+      "sampleAnswer": "两家科技公司在市场上暗暗较劲，竞争激烈。",
+      "sampleTranslation": "Hai công ty công nghệ ngấm ngầm so kè trên thị trường, cạnh tranh khốc liệt."
+    }
+  },
+  {
+    "id": "s17",
+    "type": "sentence",
+    "word": "轮",
+    "story": {
+      "hint": "Cuối cùng cũng đến lượt cặp thứ ba lên sân khấu.",
+      "sampleAnswer": "终于轮到第三对夫妻上场了。",
+      "sampleTranslation": "Cuối cùng cũng đến lượt cặp thứ ba lên sân khấu."
+    },
+    "business": {
+      "hint": "Hôm nay đến lượt phòng Marketing báo cáo tiến độ dự án.",
+      "sampleAnswer": "今天轮到市场部汇报项目进度了。",
+      "sampleTranslation": "Hôm nay đến lượt phòng Marketing báo cáo tiến độ."
+    }
+  },
+  {
+    "id": "s18",
+    "type": "sentence",
+    "word": "不耐烦",
+    "story": {
+      "hint": "Đợi rất lâu không thấy họ nói gì, khán giả bắt đầu hơi sốt ruột.",
+      "sampleAnswer": "等了很久没听到声音，观众开始有些不耐烦了。",
+      "sampleTranslation": "Đợi rất lâu không nghe thấy âm thanh gì, khán giả bắt đầu sốt ruột."
+    },
+    "business": {
+      "hint": "Đợi giao hàng quá lâu, khách hàng bắt đầu tỏ ra mất kiên nhẫn.",
+      "sampleAnswer": "等交货等了很久，客户开始显得有些不耐烦了。",
+      "sampleTranslation": "Đợi giao hàng quá lâu, khách hàng bắt đầu mất kiên nhẫn."
+    }
+  },
+  {
+    "id": "s19",
+    "type": "sentence",
+    "word": "靠",
+    "story": {
+      "hint": "Đầu người đàn ông tựa vào vai người phụ nữ ngủ thiếp đi.",
+      "sampleAnswer": "男人的头靠在女人的肩膀上睡着了。",
+      "sampleTranslation": "Đầu người đàn ông tựa vào vai người phụ nữ ngủ thiếp đi."
+    },
+    "business": {
+      "hint": "Doanh nghiệp không thể chỉ dựa vào giảm giá để cạnh tranh.",
+      "sampleAnswer": "现在的企业不能只靠打价格战来吸引客户。",
+      "sampleTranslation": "Doanh nghiệp hiện nay không thể chỉ dựa vào chiến tranh giá cả để thu hút khách."
+    }
+  },
+  {
+    "id": "s20",
+    "type": "sentence",
+    "word": "肩膀",
+    "story": {
+      "hint": "Người phụ nữ để chồng tựa lên vai mình nghỉ ngơi.",
+      "sampleAnswer": "女人让丈夫靠在自己的肩膀上休息。",
+      "sampleTranslation": "Người phụ nữ để chồng tựa lên vai mình nghỉ ngơi."
+    },
+    "business": {
+      "hint": "Người lãnh đạo cần gánh vác trách nhiệm nặng nề trên vai.",
+      "sampleAnswer": "作为公司的领导，他肩膀上承担着重大的责任。",
+      "sampleTranslation": "Là lãnh đạo công ty, trên vai anh ấy gánh vác trách nhiệm to lớn."
+    }
+  },
+  {
+    "id": "s21",
+    "type": "sentence",
+    "word": "喊",
+    "story": {
+      "hint": "Giám khảo đang định gọi lớn đánh thức người đàn ông đang ngủ.",
+      "sampleAnswer": "评委正想大声喊醒那个睡觉的男人。",
+      "sampleTranslation": "Giám khảo đang định gọi lớn đánh thức người đàn ông."
+    },
+    "business": {
+      "hint": "Sếp bực tức quát lớn trong phòng họp.",
+      "sampleAnswer": "老板在会议室里大声喊叫，对业绩很不满意。",
+      "sampleTranslation": "Sếp quát lớn trong phòng họp, rất không hài lòng với doanh số."
+    }
+  },
+  {
+    "id": "s22",
+    "type": "sentence",
+    "word": "伸",
+    "story": {
+      "hint": "Người phụ nữ chìa một ngón tay đặt lên miệng, ra hiệu im lặng.",
+      "sampleAnswer": "女人伸出一根手指放在嘴边，示意大家安静。",
+      "sampleTranslation": "Người phụ nữ chìa một ngón tay đặt lên miệng ra hiệu im lặng."
+    },
+    "business": {
+      "hint": "Công ty chúng ta chuẩn bị mở rộng (vươn) chi nhánh ra nước ngoài.",
+      "sampleAnswer": "公司准备将业务伸向海外市场。",
+      "sampleTranslation": "Công ty chuẩn bị vươn mạng lưới kinh doanh ra thị trường hải ngoại."
+    }
+  },
+  {
+    "id": "s23",
+    "type": "sentence",
+    "word": "手指",
+    "story": {
+      "hint": "Người phụ nữ dùng ngón tay chỉ vào tờ giấy đã viết sẵn.",
+      "sampleAnswer": "女人用手指了指写好的纸条。",
+      "sampleTranslation": "Người phụ nữ dùng ngón tay chỉ vào tờ giấy."
+    },
+    "business": {
+      "hint": "Chúng ta có thể ký hợp đồng điện tử chỉ bằng một cú chạm ngón tay.",
+      "sampleAnswer": "现在我们只需动动手指就能完成电子合同的签署。",
+      "sampleTranslation": "Hiện nay chúng ta chỉ cần động ngón tay là hoàn tất ký hợp đồng điện tử."
+    }
+  },
+  {
+    "id": "s24",
+    "type": "sentence",
+    "word": "歪歪扭扭",
+    "story": {
+      "hint": "Người phụ nữ dùng tay trái viết ra những nét chữ xiêu vẹo.",
+      "sampleAnswer": "女人用左手写下了歪歪扭扭的字。",
+      "sampleTranslation": "Người phụ nữ dùng tay trái viết ra những nét chữ xiêu vẹo."
+    },
+    "business": {
+      "hint": "Bản báo cáo này format lộn xộn, biểu đồ xiêu vẹo, rất thiếu chuyên nghiệp.",
+      "sampleAnswer": "这份报告的图表画得歪歪扭扭的，非常不专业。",
+      "sampleTranslation": "Biểu đồ trong báo cáo này vẽ xiêu vẹo, rất thiếu chuyên nghiệp."
+    }
+  },
+  {
+    "id": "s25",
+    "type": "sentence",
+    "word": "递",
+    "story": {
+      "hint": "Người phụ nữ nhẹ nhàng đưa tờ giấy cho giám khảo.",
+      "sampleAnswer": "女人把纸条轻轻地递给了评委。",
+      "sampleTranslation": "Người phụ nữ nhẹ nhàng đưa tờ giấy cho giám khảo."
+    },
+    "business": {
+      "hint": "Lần đầu gặp khách hàng, cần đưa danh thiếp bằng hai tay.",
+      "sampleAnswer": "第一次见客户时，应该双手把名片递给对方。",
+      "sampleTranslation": "Lần đầu gặp khách, nên dùng hai tay đưa danh thiếp cho đối phương."
+    }
+  },
+  {
+    "id": "s26",
+    "type": "sentence",
+    "word": "脑袋",
+    "story": {
+      "hint": "Trong đầu mọi người đều đầy rẫy sự thắc mắc.",
+      "sampleAnswer": "大家的脑袋里都充满了疑问。",
+      "sampleTranslation": "Trong đầu mọi người đều đầy rẫy thắc mắc."
+    },
+    "business": {
+      "hint": "Giải quyết vấn đề này đòi hỏi chúng ta phải động脑 (động não) suy nghĩ.",
+      "sampleAnswer": "解决这个棘手的商业问题需要大家多动动脑袋。",
+      "sampleTranslation": "Giải quyết vấn đề nan giải này cần mọi người động não nhiều hơn."
+    }
+  },
+  {
+    "id": "s27",
+    "type": "sentence",
+    "word": "女士",
+    "story": {
+      "hint": "Giám khảo hỏi quý cô này tại sao lại từ bỏ cơ hội.",
+      "sampleAnswer": "评委问这位女士为什么放弃这次机会。",
+      "sampleTranslation": "Giám khảo hỏi quý cô này tại sao lại từ bỏ cơ hội."
+    },
+    "business": {
+      "hint": "Hoan nghênh bà Lý tham gia vào đội ngũ quản lý của công ty.",
+      "sampleAnswer": "欢迎李女士加入我们公司的管理团队。",
+      "sampleTranslation": "Hoan nghênh bà Lý gia nhập đội ngũ quản lý của công ty."
+    }
+  },
+  {
+    "id": "s28",
+    "type": "sentence",
+    "word": "叙述",
+    "story": {
+      "hint": "Người phụ nữ thuật lại lý do đêm qua chồng không ngủ ngon.",
+      "sampleAnswer": "女士叙述了丈夫昨晚没有睡好的原因。",
+      "sampleTranslation": "Người phụ nữ thuật lại lý do đêm qua chồng không ngủ ngon."
+    },
+    "business": {
+      "hint": "Giám đốc yêu cầu anh ấy thuật lại chi tiết quá trình đàm phán dự án.",
+      "sampleAnswer": "经理要求他详细叙述项目谈判的过程。",
+      "sampleTranslation": "Giám đốc yêu cầu anh thuật lại chi tiết quá trình đàm phán."
+    }
+  },
+  {
+    "id": "s29",
+    "type": "sentence",
+    "word": "居然",
+    "story": {
+      "hint": "Để không ảnh hưởng giấc ngủ của chồng, cô ấy LẠI từ bỏ cuộc thi.",
+      "sampleAnswer": "为了不影响丈夫睡觉，她居然放弃了比赛。",
+      "sampleTranslation": "Để chồng ngủ, cô ấy lại từ bỏ cuộc thi."
+    },
+    "business": {
+      "hint": "Đối thủ cạnh tranh LẠI CÓ THỂ phát hành sản phẩm mới trước chúng ta!",
+      "sampleAnswer": "竞争对手居然比我们先发布了新产品！",
+      "sampleTranslation": "Đối thủ cạnh tranh LẠI CÓ THỂ phát hành sản phẩm trước chúng ta!"
+    }
+  },
+  {
+    "id": "s30",
+    "type": "sentence",
+    "word": "催",
+    "story": {
+      "hint": "Thấy anh ấy ngủ thiếp đi, các giám khảo đều không hối thúc anh ấy.",
+      "sampleAnswer": "看到他睡着了，评委们都没有催他。",
+      "sampleTranslation": "Thấy anh ngủ, giám khảo không hối thúc anh ấy nữa."
+    },
+    "business": {
+      "hint": "Khách hàng liên tục thúc giục chúng ta giao hàng, nên tuần này phải tăng ca.",
+      "sampleAnswer": "客户一直在催促我们交货，所以这周必须加班。",
+      "sampleTranslation": "Khách hàng liên tục giục giao hàng, tuần này phải tăng ca."
+    }
+  },
+  {
+    "id": "s31",
+    "type": "sentence",
+    "word": "等待",
+    "story": {
+      "hint": "Cả hội trường đều đang lặng lẽ chờ đợi người đàn ông đó tỉnh dậy.",
+      "sampleAnswer": "全场人都在安静地等待那个男人醒来。",
+      "sampleTranslation": "Cả hội trường lặng lẽ chờ đợi người đàn ông tỉnh dậy."
+    },
+    "business": {
+      "hint": "Chúng tôi đều đang chờ đợi quyết định cuối cùng của sếp.",
+      "sampleAnswer": "我们都在等待老板的最终决定。",
+      "sampleTranslation": "Chúng tôi đều đang chờ đợi quyết định cuối cùng của sếp."
+    }
+  },
+  {
+    "id": "s32",
+    "type": "sentence",
+    "word": "蚊子",
+    "story": {
+      "hint": "Nửa đêm hôm qua nhà có rất nhiều muỗi bay vào.",
+      "sampleAnswer": "昨天半夜家里飞来了很多蚊子。",
+      "sampleTranslation": "Nửa đêm hôm qua nhà có rất nhiều muỗi bay vào."
+    },
+    "business": {
+      "hint": "Văn phòng quá nhiều muỗi, chúng ta cần tìm dịch vụ diệt côn trùng.",
+      "sampleAnswer": "办公室里蚊子太多了，我们需要找人来杀虫。",
+      "sampleTranslation": "Văn phòng nhiều muỗi quá, cần gọi dịch vụ diệt côn trùng."
+    }
+  },
+  {
+    "id": "s33",
+    "type": "sentence",
+    "word": "半夜",
+    "story": {
+      "hint": "Nửa đêm người chồng thức dậy đánh muỗi cho vợ.",
+      "sampleAnswer": "丈夫半夜起来为妻子打蚊子。",
+      "sampleTranslation": "Nửa đêm người chồng thức dậy đánh muỗi cho vợ."
+    },
+    "business": {
+      "hint": "Hôm qua đội kỹ thuật phải thức đến nửa đêm để sửa lỗi server.",
+      "sampleAnswer": "昨天技术团队加班到半夜才修复了服务器的错误。",
+      "sampleTranslation": "Hôm qua đội kỹ thuật tăng ca đến nửa đêm để sửa lỗi server."
+    }
+  },
+  {
+    "id": "s34",
+    "type": "sentence",
+    "word": "叮",
+    "story": {
+      "hint": "Người vợ bị muỗi đốt cho mấy vết sưng.",
+      "sampleAnswer": "妻子被蚊子叮了好几个包。",
+      "sampleTranslation": "Người vợ bị muỗi đốt cho mấy vết sưng."
+    },
+    "business": {
+      "hint": "Đi Team building ngoài trời bị muỗi đốt sưng chân.",
+      "sampleAnswer": "在户外做团建的时候，很多员工被蚊子叮了。",
+      "sampleTranslation": "Khi tham gia teambuilding ngoài trời, nhiều nhân viên bị muỗi đốt."
+    }
+  },
+  {
+    "id": "s35",
+    "type": "sentence",
+    "word": "老婆",
+    "story": {
+      "hint": "Người chồng để vợ không bị muỗi đốt, đã đánh muỗi cả đêm.",
+      "sampleAnswer": "丈夫为了不让老婆被蚊子咬，打了一夜的蚊子。",
+      "sampleTranslation": "Người chồng để vợ không bị muỗi đốt đã đánh muỗi cả đêm."
+    },
+    "business": {
+      "hint": "Giám đốc tài chính của công ty chúng ta là vợ (bà xã) của Tổng giám đốc.",
+      "sampleAnswer": "我们公司的财务总监其实是总经理的老婆。",
+      "sampleTranslation": "Giám đốc tài chính của công ty thực ra là vợ của Tổng giám đốc."
+    }
+  },
+  {
+    "id": "s36",
+    "type": "sentence",
+    "word": "吵",
+    "story": {
+      "hint": "Tuy nửa đêm đập muỗi có hơi ồn, nhưng người vợ cảm thấy rất hạnh phúc.",
+      "sampleAnswer": "虽然半夜打蚊子有些吵，但妻子觉得很幸福。",
+      "sampleTranslation": "Tuy nửa đêm đập muỗi có hơi ồn, nhưng vợ thấy rất hạnh phúc."
+    },
+    "business": {
+      "hint": "Văn phòng ồn ào quá, tôi không thể tập trung làm việc.",
+      "sampleAnswer": "办公室里太吵了，我根本无法集中精力工作。",
+      "sampleTranslation": "Văn phòng ồn ào quá, tôi không thể tập trung làm việc."
+    }
+  },
+  {
+    "id": "s37",
+    "type": "sentence",
+    "word": "项",
+    "story": {
+      "hint": "Hạng mục thi này cuối cùng đã chọn ra cặp vợ chồng ân ái nhất.",
+      "sampleAnswer": "这项比赛最终选出了最恩爱的夫妻。",
+      "sampleTranslation": "Cuộc thi / Hạng mục này cuối cùng đã chọn ra cặp vợ chồng ân ái nhất."
+    },
+    "business": {
+      "hint": "Tháng này công ty đã ký thành công một dự án (hạng mục) lớn.",
+      "sampleAnswer": "这个月公司成功签下了一项大工程。",
+      "sampleTranslation": "Tháng này công ty đã ký thành công một công trình lớn."
+    }
+  },
+  {
+    "id": "s38",
+    "type": "sentence",
+    "word": "患难与共",
+    "story": {
+      "hint": "Các giám khảo cho rằng họ mới thực sự là một cặp vợ chồng hoạn nạn có nhau.",
+      "sampleAnswer": "评委们认为他们才是一对真正患难与共的夫妻。",
+      "sampleTranslation": "Các giám khảo cho rằng họ mới là một cặp vợ chồng hoạn nạn có nhau."
+    },
+    "business": {
+      "hint": "Trong thời kỳ khủng hoảng kinh tế, công ty và toàn bộ nhân viên hoạn nạn có nhau.",
+      "sampleAnswer": "在经济危机期间，公司与所有员工患难与共。",
+      "sampleTranslation": "Trong thời kỳ khủng hoảng kinh tế, công ty và nhân viên hoạn nạn có nhau."
+    }
+  },
+  {
+    "id": "q1",
+    "type": "qna",
+    "question": "评委叫第一对夫妻说说他俩是如何恩爱的，男的说了什么？",
+    "options": [
+      "A. 他说他们从来不吵架",
+      "B. 他说他们相敬如宾",
+      "C. 他说他们共同度过很多困难",
+      "D. 他没有说话，只是看着妻子"
+    ],
+    "answer": "B. 他说他们相敬如宾"
+  },
+  {
+    "id": "q2",
+    "type": "qna",
+    "question": "第三对夫妻中，女人为什么不拿走丈夫肩膀上的头？",
+    "options": [
+      "A. 因为她喜欢这样",
+      "B. 因为她睡着了",
+      "C. 为了不影响丈夫睡觉",
+      "D. 因为丈夫生病了"
+    ],
+    "answer": "C. 为了不影响丈夫睡觉"
+  },
+  {
+    "id": "q3",
+    "type": "qna",
+    "question": "最终哪一对夫妻入围了（获得第一名）？",
+    "options": [
+      "A. 第一对",
+      "B. 第二对",
+      "C. 第三对",
+      "D. 都没有入围"
+    ],
+    "answer": "C. 第三对"
+  },
+  {
+    "id": "q4",
+    "type": "qna",
+    "question": "这个故事主要想告诉我们什么道理？",
+    "options": [
+      "A. 爱情需要金钱",
+      "B. 细节中能看出真正的爱",
+      "C. 夫妻不能吵架",
+      "D. 比赛需要运气"
+    ],
+    "answer": "B. 细节中能看出真正的爱"
+  },
+  {
+    "id": "q5",
+    "type": "qna",
+    "question": "文中“患难与共”的意思最接近哪一个？",
+    "options": [
+      "A. 一起享乐",
+      "B. 共同经历困难和危险",
+      "C. 经常吵架",
+      "D. 互相尊重"
+    ],
+    "answer": "B. 共同经历困难和危险"
+  },
+  {
+    "id": "q6",
+    "type": "qna",
+    "question": "为什么评委觉得第三对夫妻最恩爱？",
+    "options": [
+      "A. 因为他们写的故事最感人",
+      "B. 因为他们在生活细节中体现了深深的爱和体贴",
+      "C. 因为他们结婚时间最长",
+      "D. 因为丈夫生病了妻子还照顾他"
+    ],
+    "answer": "B. 因为他们在生活细节中体现了深深的爱和体贴"
+  },
+  {
+    "id": "q7",
+    "type": "qna",
+    "question": "故事中，电台举办活动的目的是什么？",
+    "options": [
+      "A. 为了发奖品",
+      "B. 选出一对最恩爱的夫妻",
+      "C. 提高收听率",
+      "D. 帮助生病的人"
+    ],
+    "answer": "B. 选出一对最恩爱的夫妻"
+  },
+  {
+    "id": "q8",
+    "type": "qna",
+    "question": "词汇理解: 文中“相敬如宾”的意思是？",
+    "options": [
+      "A. 互相尊重，像对待宾客一样礼貌",
+      "B. 互相不喜欢，像陌生人",
+      "C. 经常请客吃饭",
+      "D. 很少交流"
+    ],
+    "answer": "A. 互相尊重，像对待宾客一样礼貌"
+  },
+  {
+    "id": "q9",
+    "type": "qna",
+    "question": "词汇理解: 为什么第二对夫妻没有被评为最恩爱？",
+    "options": [
+      "A. 因为他们吵过架",
+      "B. 因为评委觉得只说经历苦难还不足以打动人心",
+      "C. 因为他们主动弃权了",
+      "D. 因为故事太假了"
+    ],
+    "answer": "B. 因为评委觉得只说经历苦难还不足以打动人心"
+  },
+  {
+    "id": "q10",
+    "type": "qna",
+    "question": "语法应用: 经理问我，这个项目______推进？",
+    "options": [
+      "A. 居然",
+      "B. 靠",
+      "C. 如何",
+      "D. 暗暗"
+    ],
+    "answer": "C. 如何"
+  },
+  {
+    "id": "q11",
+    "type": "qna",
+    "question": "语法应用: 他生病了，______没有请假，坚持来上班。",
+    "options": [
+      "A. 依然",
+      "B. 居然",
+      "C. 突然",
+      "D. 果然"
+    ],
+    "answer": "B. 居然"
+  },
+  {
+    "id": "q12",
+    "type": "qna",
+    "question": "语法应用: 这个公司能发展到今天，全______大家的努力。",
+    "options": [
+      "A. 靠",
+      "B. 如何",
+      "C. 等待",
+      "D. 入围"
+    ],
+    "answer": "A. 靠"
+  },
+  {
+    "id": "q13",
+    "type": "qna",
+    "question": "词汇辨析: 以下哪个句子中“抱怨”的使用是正确的？",
+    "options": [
+      "A. 客服部门每天要处理很多客户的抱怨",
+      "B. 他抱怨了一个大礼物",
+      "C. 我很抱怨他的帮助",
+      "D. 公司今天发了很多抱怨"
+    ],
+    "answer": "A. 客服部门每天要处理很多客户的抱怨"
+  },
+  {
+    "id": "q14",
+    "type": "qna",
+    "question": "商务应用: 在商业谈判中，______往往决定了最终的成败。",
+    "options": [
+      "A. 细节",
+      "B. 婚姻",
+      "C. 电台",
+      "D. 蚊子"
+    ],
+    "answer": "A. 细节"
+  },
+  {
+    "id": "q15",
+    "type": "qna",
+    "question": "商务应用: 供应链断裂导致整个生产线______。",
+    "options": [
+      "A. 入围",
+      "B. 瘫痪",
+      "C. 离婚",
+      "D. 恩爱"
+    ],
+    "answer": "B. 瘫痪"
+  },
+  {
+    "id": "q16",
+    "type": "qna",
+    "question": "商务应用: 两家公司______竞争，都想拿下这个大项目。",
+    "options": [
+      "A. 歪歪扭扭",
+      "B. 暗暗",
+      "C. 居然",
+      "D. 如何"
+    ],
+    "answer": "B. 暗暗"
+  },
+  {
+    "id": "q17",
+    "type": "qna",
+    "question": "阅读理解: 妻子为什么没有叫醒丈夫？",
+    "options": [
+      "A. 为了不影响丈夫睡觉，体现了体贴",
+      "B. 因为她不想回答评委的问题",
+      "C. 因为她害怕丈夫发脾气",
+      "D. 因为她想给评委留下好印象"
+    ],
+    "answer": "A. 为了不影响丈夫睡觉，体现了体贴"
+  },
+  {
+    "id": "q18",
+    "type": "qna",
+    "question": "商务应用: 我们不能总______别人来解决问题，要培养自己的能力。",
+    "options": [
+      "A. 靠",
+      "B. 伸",
+      "C. 喊",
+      "D. 递"
+    ],
+    "answer": "A. 靠"
+  },
+  {
+    "id": "q19",
+    "type": "qna",
+    "question": "词汇辨析: 下面哪一项可以用来形容“两家公司合并”？",
+    "options": [
+      "A. 商业婚姻",
+      "B. 商业自杀",
+      "C. 商业细节",
+      "D. 商业电台"
+    ],
+    "answer": "A. 商业婚姻"
+  },
+  {
+    "id": "q20",
+    "type": "qna",
+    "question": "综合运用: 面对客户的不断______，我们该______处理？",
+    "options": [
+      "A. 抱怨 / 居然",
+      "B. 细节 / 靠",
+      "C. 抱怨 / 如何",
+      "D. 瘫痪 / 如何"
+    ],
+    "answer": "C. 抱怨 / 如何"
+  },
+  {
+    "id": "q21",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：这件产品的设计非常注重______，深受消费者喜爱。",
+    "options": [
+      "A. 细节",
+      "B. 婚姻",
+      "C. 肩膀",
+      "D. 蚊子"
+    ],
+    "answer": "A. 细节"
+  },
+  {
+    "id": "q22",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：经过多次______，我们发现方案A的成本更低。",
+    "options": [
+      "A. 叙述",
+      "B. 对比",
+      "C. 居然",
+      "D. 喊"
+    ],
+    "answer": "B. 对比"
+  },
+  {
+    "id": "q23",
+    "type": "qna",
+    "question": "语法应用: 他虽然是个新手，______能把这么复杂的项目管理得井井有条。",
+    "options": [
+      "A. 如何",
+      "B. 靠",
+      "C. 居然",
+      "D. 暗暗"
+    ],
+    "answer": "C. 居然"
+  },
+  {
+    "id": "q24",
+    "type": "qna",
+    "question": "语法应用: 现代企业管理不能只______经验，还要依靠数据分析。",
+    "options": [
+      "A. 靠",
+      "B. 等待",
+      "C. 催",
+      "D. 递"
+    ],
+    "answer": "A. 靠"
+  },
+  {
+    "id": "q25",
+    "type": "qna",
+    "question": "阅读理解: 为什么第三对夫妻的妻子要“伸出一根手指放在嘴边”？",
+    "options": [
+      "A. 因为她牙痛",
+      "B. 示意评委和观众安静",
+      "C. 因为她不想说话",
+      "D. 指责评委"
+    ],
+    "answer": "B. 示意评委和观众安静"
+  },
+  {
+    "id": "q26",
+    "type": "qna",
+    "question": "阅读理解: 第一对夫妻结婚十几年，他们的关系是怎样的？",
+    "options": [
+      "A. 经常吵架",
+      "B. 患难与共",
+      "C. 相敬如宾",
+      "D. 已经离婚"
+    ],
+    "answer": "C. 相敬如宾"
+  },
+  {
+    "id": "q27",
+    "type": "qna",
+    "question": "商务应用: 会议上，大家就______提高销售额进行了激烈的讨论。",
+    "options": [
+      "A. 如何",
+      "B. 居然",
+      "C. 暗暗",
+      "D. 细节"
+    ],
+    "answer": "A. 如何"
+  },
+  {
+    "id": "q28",
+    "type": "qna",
+    "question": "商务应用: 客户对我们的服务非常不满意，甚至打电话来______。",
+    "options": [
+      "A. 爱护",
+      "B. 抱怨",
+      "C. 等待",
+      "D. 叙述"
+    ],
+    "answer": "B. 抱怨"
+  },
+  {
+    "id": "q29",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：经过一轮又一轮的筛选，我们的公司终于______了项目。",
+    "options": [
+      "A. 瘫痪",
+      "B. 离婚",
+      "C. 入围",
+      "D. 吵架"
+    ],
+    "answer": "C. 入围"
+  },
+  {
+    "id": "q30",
+    "type": "qna",
+    "question": "词汇辨析: “歪歪扭扭”在文中是用来形容什么的？",
+    "options": [
+      "A. 男人的走路姿势",
+      "B. 妻子的字迹",
+      "C. 蚊子的飞行路线",
+      "D. 评委的表情"
+    ],
+    "answer": "B. 妻子的字迹"
+  },
+  {
+    "id": "q31",
+    "type": "qna",
+    "question": "语法应用: 这个问题到底______解决，还需要进一步研究。",
+    "options": [
+      "A. 靠",
+      "B. 居然",
+      "C. 如何",
+      "D. 恩爱"
+    ],
+    "answer": "C. 如何"
+  },
+  {
+    "id": "q32",
+    "type": "qna",
+    "question": "商务应用: 公司的网络服务器突然______，导致所有业务中断。",
+    "options": [
+      "A. 入围",
+      "B. 瘫痪",
+      "C. 抱怨",
+      "D. 恩爱"
+    ],
+    "answer": "B. 瘫痪"
+  },
+  {
+    "id": "q33",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：在警察的询问下，他详细______了案件的经过。",
+    "options": [
+      "A. 叙述",
+      "B. 催促",
+      "C. 抱怨",
+      "D. 对比"
+    ],
+    "answer": "A. 叙述"
+  },
+  {
+    "id": "q34",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：他______下定决心，一定要在这次考核中拿第一。",
+    "options": [
+      "A. 歪歪扭扭",
+      "B. 暗暗",
+      "C. 居然",
+      "D. 靠"
+    ],
+    "answer": "B. 暗暗"
+  },
+  {
+    "id": "q35",
+    "type": "qna",
+    "question": "阅读理解: 妻子用左手写字的细节说明了什么？",
+    "options": [
+      "A. 她是左撇子",
+      "B. 她的右手受伤了",
+      "C. 她的右肩被丈夫靠着，无法动弹",
+      "D. 她不想让别人看懂"
+    ],
+    "answer": "C. 她的右肩被丈夫靠着，无法动弹"
+  },
+  {
+    "id": "q36",
+    "type": "qna",
+    "question": "阅读理解: 丈夫醒来后，看到评委和观众的表情是怎样的？",
+    "options": [
+      "A. 大家都在笑他",
+      "B. 大家都因他们的细节而感动",
+      "C. 大家都让他赶紧下台",
+      "D. 大家都睡着了"
+    ],
+    "answer": "B. 大家都因他们的细节而感动"
+  },
+  {
+    "id": "q37",
+    "type": "qna",
+    "question": "商务应用: 优秀的企业家应该具备在危机中与员工______的精神。",
+    "options": [
+      "A. 相敬如宾",
+      "B. 患难与共",
+      "C. 暗暗较劲",
+      "D. 歪歪扭扭"
+    ],
+    "answer": "B. 患难与共"
+  },
+  {
+    "id": "q38",
+    "type": "qna",
+    "question": "商务应用: 销售经理正在______团队加快工作进度，以完成本月目标。",
+    "options": [
+      "A. 递",
+      "B. 催",
+      "C. 喊",
+      "D. 靠"
+    ],
+    "answer": "B. 催"
+  },
+  {
+    "id": "q39",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：面对突如其来的变故，她______没有流下一滴眼泪。",
+    "options": [
+      "A. 居然",
+      "B. 如何",
+      "C. 靠",
+      "D. 对比"
+    ],
+    "answer": "A. 居然"
+  },
+  {
+    "id": "q40",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：请把这份重要的文件______给董事长。",
+    "options": [
+      "A. 递",
+      "B. 伸",
+      "C. 靠",
+      "D. 喊"
+    ],
+    "answer": "A. 递"
+  },
+  {
+    "id": "q41",
+    "type": "qna",
+    "question": "语法应用: 他的成功主要______他不懈的努力和坚持。",
+    "options": [
+      "A. 居然",
+      "B. 如何",
+      "C. 靠",
+      "D. 对比"
+    ],
+    "answer": "C. 靠"
+  },
+  {
+    "id": "q42",
+    "type": "qna",
+    "question": "商务应用: 我们必须密切关注市场动态，而不是被动地______机会的降临。",
+    "options": [
+      "A. 叙述",
+      "B. 抱怨",
+      "C. 等待",
+      "D. 瘫痪"
+    ],
+    "answer": "C. 等待"
+  },
+  {
+    "id": "q43",
+    "type": "qna",
+    "question": "阅读理解: 评委们的脑袋里为什么充满了疑问？",
+    "options": [
+      "A. 因为丈夫睡着了",
+      "B. 因为纸条上写着弃权，大家不明白为什么",
+      "C. 因为妻子用左手写字",
+      "D. 以上都是"
+    ],
+    "answer": "B. 因为纸条上写着弃权，大家不明白为什么"
+  },
+  {
+    "id": "q44",
+    "type": "qna",
+    "question": "商务应用: 这次合作的失败，主要是因为我们在合同的______上没有达成一致。",
+    "options": [
+      "A. 肩膀",
+      "B. 电台",
+      "C. 细节",
+      "D. 蚊子"
+    ],
+    "answer": "C. 细节"
+  },
+  {
+    "id": "q45",
+    "type": "qna",
+    "question": "词汇辨析: 以下哪个词语最适合形容竞争对手之间的较量？",
+    "options": [
+      "A. 相敬如宾",
+      "B. 恩爱",
+      "C. 暗暗较劲",
+      "D. 瘫痪"
+    ],
+    "answer": "C. 暗暗较劲"
+  },
+  {
+    "id": "q46",
+    "type": "qna",
+    "question": "商务应用: 公司的两名核心骨干因为意见不合，经常在会议上______。",
+    "options": [
+      "A. 恩爱",
+      "B. 吵架",
+      "C. 递",
+      "D. 伸"
+    ],
+    "answer": "B. 吵架"
+  },
+  {
+    "id": "q47",
+    "type": "qna",
+    "question": "词汇辨析: 选词填空：这座老房子的墙壁已经______的了，感觉随时会倒塌。",
+    "options": [
+      "A. 歪歪扭扭",
+      "B. 患难与共",
+      "C. 相敬如宾",
+      "D. 恩恩爱爱"
+    ],
+    "answer": "A. 歪歪扭扭"
+  },
+  {
+    "id": "q48",
+    "type": "qna",
+    "question": "阅读理解: 故事的结局是谁获得了“最恩爱夫妻”的称号？",
+    "options": [
+      "A. 第一对",
+      "B. 第二对",
+      "C. 第三对",
+      "D. 都没有"
+    ],
+    "answer": "C. 第三对"
+  },
+  {
+    "id": "q49",
+    "type": "qna",
+    "question": "商务应用: 作为公司的老员工，他应该更加______公司的新人，而不是排挤他们。",
+    "options": [
+      "A. 抱怨",
+      "B. 催促",
+      "C. 爱护",
+      "D. 瘫痪"
+    ],
+    "answer": "C. 爱护"
+  },
+  {
+    "id": "q50",
+    "type": "qna",
+    "question": "综合运用: 在激烈的市场竞争中，只有真正关注客户需求，把服务______做到极致的企业，才能最终______。",
+    "options": [
+      "A. 细节 / 入围",
+      "B. 抱怨 / 瘫痪",
+      "C. 细节 / 离婚",
+      "D. 蚊子 / 叙述"
+    ],
+    "answer": "A. 细节 / 入围"
+  },
+  {
+    "id": "r1",
+    "type": "retell",
+    "title": "Kể lại đoạn 1: Cuộc phỏng vấn 3 cặp vợ chồng",
+    "keywords": [
+      "电台",
+      "恩爱夫妻",
+      "对比",
+      "评委",
+      "如何"
+    ],
+    "script": "电台要选出一对最恩爱的夫妻。对比后，有三对夫妻入围。评委叫第一对夫妻说说他俩是如何恩爱的。第一对夫妻说他们相敬如宾。",
+    "translation": "Đài phát thanh muốn chọn ra một cặp vợ chồng ân ái nhất. Sau khi so sánh, có 3 cặp lọt vào vòng trong. Giám khảo gọi cặp thứ nhất nói xem họ ân ái như thế nào. Cặp thứ nhất nói họ tương kính như tân."
+  },
+  {
+    "id": "r2",
+    "type": "retell",
+    "title": "Kể lại đoạn 2: Cặp vợ chồng thứ hai",
+    "keywords": [
+      "瘫痪",
+      "抱怨",
+      "爱护",
+      "照顾"
+    ],
+    "script": "第二对夫妻中，妻子生病瘫痪了。丈夫一直陪伴在她的身边，照顾她，而且从来没有抱怨过。",
+    "translation": "Trong cặp vợ chồng thứ hai, người vợ lâm bệnh bị liệt. Người chồng luôn đồng hành bên cô ấy, chăm sóc cô ấy, và chưa bao giờ phàn nàn."
+  },
+  {
+    "id": "r3",
+    "type": "retell",
+    "title": "Kể lại đoạn 3: Cặp vợ chồng thứ ba",
+    "keywords": [
+      "睡觉",
+      "靠着",
+      "肩膀",
+      "放弃",
+      "细节"
+    ],
+    "script": "第三对夫妻中，丈夫的头靠在妻子的肩膀上睡着了。为了不影响丈夫睡觉，妻子居然放弃了回答评委问题的机会。这个细节感动了所有人。",
+    "translation": "Trong cặp thứ ba, đầu người chồng tựa vào vai người vợ ngủ thiếp đi. Để không ảnh hưởng giấc ngủ của chồng, người vợ LẠI CÓ THỂ từ bỏ cơ hội trả lời câu hỏi của giám khảo. Chi tiết này đã làm cảm động tất cả mọi người."
+  }
+]

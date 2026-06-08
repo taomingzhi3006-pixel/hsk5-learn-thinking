@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bai-1",
+    "title": "Bài 1: Chi tiết quyết định thành bại",
+    "topic": "Business Details",
+    "progress": 0,
+    "totalSteps": 8,
+    "description": "Học cách chú ý đến chi tiết trong công việc và các tình huống đàm phán thương mại.",
+    "audioFiles": [
+      "/src/assets/Bai1/01-1.mp3",
+      "/src/assets/Bai1/01-2.mp3"
+    ],
+    "pdfFile": "/src/assets/Bai1/Giáo Trình Chuẩn HSK5 (Tập 1)-4-10.pdf",
+    "coverImage": "/src/assets/Bai1/cover.png"
+  }
+]

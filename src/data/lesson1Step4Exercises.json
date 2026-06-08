@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "word": "靠",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "那个年轻人_____在窗边，静静地看着外面的风景。",
+    "translation": "Chàng trai trẻ tựa vào bên cửa sổ, lặng lẽ ngắm nhìn phong cảnh bên ngoài.",
+    "answer": "靠",
+    "options": [
+      "靠",
+      "患难与共",
+      "手指",
+      "老婆"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "爱护",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "公司要求每一位员工都要_____公共财物。",
+    "translation": "Công ty yêu cầu mỗi nhân viên đều phải bảo vệ tài sản chung.",
+    "answer": "爱护",
+    "options": [
+      "爱护",
+      "自杀",
+      "吵",
+      "靠"
+    ]
+  },
+  {
+    "id": 3,
+    "word": "递",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "女人把纸条轻轻地_____给了评委。",
+    "translation": "Người phụ nữ nhẹ nhàng đưa tờ giấy cho giám khảo.",
+    "answer": "递",
+    "options": [
+      "递",
+      "暗暗",
+      "歪歪扭扭",
+      "如何"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "细节",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "在签订合同之前，我们需要仔细检查每一个_____。",
+    "translation": "Trước khi ký hợp đồng, cần kiểm tra kỹ từng chi tiết.",
+    "answer": "细节",
+    "options": [
+      "手指",
+      "轮",
+      "递",
+      "细节"
+    ]
+  },
+  {
+    "id": 5,
+    "word": "等待",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "我们在车站_____了将近一个小时，公交车才来。",
+    "translation": "Chúng tôi đã chờ ở trạm xe gần một tiếng đồng hồ, xe buýt mới đến.",
+    "answer": "等待",
+    "options": [
+      "等待",
+      "轮",
+      "伸",
+      "相敬如宾"
+    ]
+  },
+  {
+    "id": 6,
+    "word": "吵",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "虽然半夜打蚊子有些_____，但妻子觉得很幸福。",
+    "translation": "Tuy nửa đêm đập muỗi có hơi ồn, nhưng vợ thấy rất hạnh phúc.",
+    "answer": "吵",
+    "options": [
+      "肩膀",
+      "催",
+      "患难与共",
+      "吵"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "递",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "请把桌子上的那杯水_____给我，谢谢。",
+    "translation": "Xin hãy đưa cho tôi cốc nước trên bàn, cảm ơn.",
+    "answer": "递",
+    "options": [
+      "递",
+      "抱怨",
+      "靠",
+      "如何"
+    ]
+  },
+  {
+    "id": 8,
+    "word": "暗暗",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "两家科技公司在市场上_____较劲，竞争激烈。",
+    "translation": "Hai công ty công nghệ ngấm ngầm so kè trên thị trường, cạnh tranh khốc liệt.",
+    "answer": "暗暗",
+    "options": [
+      "暗暗",
+      "患难与共",
+      "瘫痪",
+      "对比"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "喊",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "评委正想大声_____醒那个睡觉的男人。",
+    "translation": "Giám khảo đang định gọi lớn đánh thức người đàn ông.",
+    "answer": "喊",
+    "options": [
+      "自杀",
+      "爱护",
+      "吵架",
+      "喊"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "叙述",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "经理要求他详细_____项目谈判的过程。",
+    "translation": "Giám đốc yêu cầu anh thuật lại chi tiết quá trình đàm phán.",
+    "answer": "叙述",
+    "options": [
+      "叙述",
+      "对比",
+      "爱护",
+      "女士"
+    ]
+  },
+  {
+    "id": 11,
+    "word": "爱护",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "他们在困难中互相_____，让人感动。",
+    "translation": "Họ yêu thương che chở cho nhau trong khó khăn, khiến người ta cảm động.",
+    "answer": "爱护",
+    "options": [
+      "手指",
+      "吵架",
+      "评委",
+      "爱护"
+    ]
+  },
+  {
+    "id": 12,
+    "word": "喊",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "妈妈在楼下大声_____我下去吃饭。",
+    "translation": "Mẹ ở dưới lầu gọi lớn bảo tôi xuống ăn cơm.",
+    "answer": "喊",
+    "options": [
+      "等待",
+      "入围",
+      "喊",
+      "暗暗"
+    ]
+  },
+  {
+    "id": 13,
+    "word": "评委",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "_____叫第一对夫妻说说他们是如何恩爱的。",
+    "translation": "Giám khảo bảo cặp thứ nhất nói xem họ ân ái như thế nào.",
+    "answer": "评委",
+    "options": [
+      "入围",
+      "瘫痪",
+      "评委",
+      "项"
+    ]
+  },
+  {
+    "id": 14,
+    "word": "靠",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "现在的企业不能只_____打价格战来吸引客户。",
+    "translation": "Doanh nghiệp hiện nay không thể chỉ dựa vào chiến tranh giá cả để thu hút khách.",
+    "answer": "靠",
+    "options": [
+      "肩膀",
+      "靠",
+      "相敬如宾",
+      "喊"
+    ]
+  },
+  {
+    "id": 15,
+    "word": "喊",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "老板在会议室里大声_____叫，对业绩很不满意。",
+    "translation": "Sếp quát lớn trong phòng họp, rất không hài lòng với doanh số.",
+    "answer": "喊",
+    "options": [
+      "喊",
+      "轮",
+      "催",
+      "歪歪扭扭"
+    ]
+  },
+  {
+    "id": 16,
+    "word": "电台",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "_____举办了一次寻找最恩爱夫妻的活动。",
+    "translation": "Đài phát thanh tổ chức sự kiện tìm cặp vợ chồng ân ái nhất.",
+    "answer": "电台",
+    "options": [
+      "如何",
+      "患难与共",
+      "半夜",
+      "电台"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "瘫痪",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "由于系统_____，整个公司的业务都停止了。",
+    "translation": "Do hệ thống tê liệt, toàn bộ nghiệp vụ công ty đều dừng lại.",
+    "answer": "瘫痪",
+    "options": [
+      "半夜",
+      "瘫痪",
+      "入围",
+      "细节"
+    ]
+  },
+  {
+    "id": 18,
+    "word": "离婚",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "尽管生活很艰难，但他们从没想过_____。",
+    "translation": "Dù cuộc sống rất gian nan, họ chưa từng nghĩ đến việc ly hôn.",
+    "answer": "离婚",
+    "options": [
+      "爱护",
+      "离婚",
+      "恩爱",
+      "靠"
+    ]
+  },
+  {
+    "id": 19,
+    "word": "入围",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "他导演的电影成功_____了今年的最佳影片奖。",
+    "translation": "Bộ phim do anh ấy làm đạo diễn đã lọt vào danh sách đề cử Phim hay nhất năm nay.",
+    "answer": "入围",
+    "options": [
+      "项",
+      "入围",
+      "喊",
+      "恩爱"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "电台",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "我们公司打算在当地_____投放广告。",
+    "translation": "Công ty chúng tôi dự định đặt quảng cáo trên đài phát thanh địa phương.",
+    "answer": "电台",
+    "options": [
+      "入围",
+      "患难与共",
+      "瘫痪",
+      "电台"
+    ]
+  },
+  {
+    "id": 21,
+    "word": "患难与共",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "评委们认为他们才是一对真正_____的夫妻。",
+    "translation": "Các giám khảo cho rằng họ mới là một cặp vợ chồng hoạn nạn có nhau.",
+    "answer": "患难与共",
+    "options": [
+      "患难与共",
+      "半夜",
+      "暗暗",
+      "离婚"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "离婚",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "两位创始人因为理念不合决定“_____”，分头创业。",
+    "translation": "Hai nhà sáng lập vì không hợp quan điểm nên 'ly hôn', tách ra khởi nghiệp riêng.",
+    "answer": "离婚",
+    "options": [
+      "老婆",
+      "入围",
+      "细节",
+      "离婚"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "相敬如宾",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "这两家合作企业一直_____，互利共赢。",
+    "translation": "Hai doanh nghiệp hợp tác luôn tôn trọng lẫn nhau, cùng có lợi.",
+    "answer": "相敬如宾",
+    "options": [
+      "轮",
+      "相敬如宾",
+      "吵",
+      "如何"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "对比",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "_____这两个方案的优缺点后，我们选择了第一个。",
+    "translation": "Sau khi so sánh ưu khuyết điểm của hai phương án, chúng tôi đã chọn phương án thứ nhất.",
+    "answer": "对比",
+    "options": [
+      "蚊子",
+      "不耐烦",
+      "相敬如宾",
+      "对比"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "女士",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "评委问这位_____为什么放弃这次机会。",
+    "translation": "Giám khảo hỏi quý cô này tại sao lại từ bỏ cơ hội.",
+    "answer": "女士",
+    "options": [
+      "女士",
+      "脑袋",
+      "细节",
+      "抱怨"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "等待",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "全场人都在安静地_____那个男人醒来。",
+    "translation": "Cả hội trường lặng lẽ chờ đợi người đàn ông tỉnh dậy.",
+    "answer": "等待",
+    "options": [
+      "吵架",
+      "等待",
+      "恩爱",
+      "暗暗"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "歪歪扭扭",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "女人用左手写下了_____的字。",
+    "translation": "Người phụ nữ dùng tay trái viết ra những nét chữ xiêu vẹo.",
+    "answer": "歪歪扭扭",
+    "options": [
+      "歪歪扭扭",
+      "催",
+      "患难与共",
+      "居然"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "催",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "客户一直在_____促我们交货，所以这周必须加班。",
+    "translation": "Khách hàng liên tục giục giao hàng, tuần này phải tăng ca.",
+    "answer": "催",
+    "options": [
+      "手指",
+      "吵架",
+      "离婚",
+      "催"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "轮",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "今天_____到我洗碗了，你去休息吧。",
+    "translation": "Hôm nay đến lượt tôi rửa bát rồi, bạn đi nghỉ đi.",
+    "answer": "轮",
+    "options": [
+      "伸",
+      "轮",
+      "抱怨",
+      "半夜"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "自杀",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "即使在最痛苦的时候，他们也没有想过_____。",
+    "translation": "Ngay cả lúc đau khổ nhất, họ cũng chưa từng nghĩ đến tự sát.",
+    "answer": "自杀",
+    "options": [
+      "自杀",
+      "相敬如宾",
+      "细节",
+      "老婆"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "暗暗",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "听了第二对夫妻的故事，评委们_____点头。",
+    "translation": "Nghe câu chuyện của cặp thứ hai, các giám khảo thầm gật đầu.",
+    "answer": "暗暗",
+    "options": [
+      "居然",
+      "婚姻",
+      "靠",
+      "暗暗"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "抱怨",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "顾客总是_____这家公司的服务很差。",
+    "translation": "Khách hàng luôn phàn nàn dịch vụ của công ty này rất tệ.",
+    "answer": "抱怨",
+    "options": [
+      "叙述",
+      "项",
+      "相敬如宾",
+      "抱怨"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "入围",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "最终有三对夫妻_____了决赛。",
+    "translation": "Cuối cùng có 3 cặp vợ chồng lọt vào vòng chung kết.",
+    "answer": "入围",
+    "options": [
+      "靠",
+      "对比",
+      "入围",
+      "项"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "不耐烦",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "等了很久没听到声音，观众开始有些_____了。",
+    "translation": "Đợi rất lâu không nghe thấy âm thanh gì, khán giả bắt đầu sốt ruột.",
+    "answer": "不耐烦",
+    "options": [
+      "不耐烦",
+      "暗暗",
+      "叮",
+      "爱护"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "居然",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "天气预报说今天是晴天，下午_____下起了大雨！",
+    "translation": "Dự báo thời tiết nói hôm nay trời nắng, buổi chiều lại bất ngờ đổ mưa to!",
+    "answer": "居然",
+    "options": [
+      "细节",
+      "喊",
+      "相敬如宾",
+      "居然"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "离婚",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "由于性格不合，他们结婚没多久就决定_____了。",
+    "translation": "Do tính cách không hợp, họ kết hôn chưa bao lâu đã quyết định ly hôn.",
+    "answer": "离婚",
+    "options": [
+      "离婚",
+      "递",
+      "脑袋",
+      "细节"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "瘫痪",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "第二对夫妻中，妻子生病_____了。",
+    "translation": "Trong cặp vợ chồng thứ hai, người vợ lâm bệnh bị liệt.",
+    "answer": "瘫痪",
+    "options": [
+      "瘫痪",
+      "叙述",
+      "歪歪扭扭",
+      "吵"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "肩膀",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "作为公司的领导，他_____上承担着重大的责任。",
+    "translation": "Là lãnh đạo công ty, trên vai anh ấy gánh vác trách nhiệm to lớn.",
+    "answer": "肩膀",
+    "options": [
+      "歪歪扭扭",
+      "脑袋",
+      "恩爱",
+      "肩膀"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "半夜",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "昨天技术团队加班到_____才修复了服务器的错误。",
+    "translation": "Hôm qua đội kỹ thuật tăng ca đến nửa đêm để sửa lỗi server.",
+    "answer": "半夜",
+    "options": [
+      "脑袋",
+      "肩膀",
+      "恩爱",
+      "半夜"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "蚊子",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "昨天半夜家里飞来了很多_____。",
+    "translation": "Nửa đêm hôm qua nhà có rất nhiều muỗi bay vào.",
+    "answer": "蚊子",
+    "options": [
+      "抱怨",
+      "蚊子",
+      "半夜",
+      "恩爱"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "电台",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "我爷爷每天早上都会听_____里的新闻节目。",
+    "translation": "Ông tôi mỗi sáng đều nghe bản tin trên đài phát thanh.",
+    "answer": "电台",
+    "options": [
+      "半夜",
+      "伸",
+      "女士",
+      "电台"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "吵架",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "第一对夫妻说他们结婚十几年，从来没吵过架。",
+    "translation": "Cặp thứ nhất nói họ kết hôn mười mấy năm chưa từng cãi nhau.",
+    "answer": "吵架",
+    "options": [
+      "吵架",
+      "对比",
+      "手指",
+      "细节"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "叮",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "妻子被蚊子_____了好几个包。",
+    "translation": "Người vợ bị muỗi đốt cho mấy vết sưng.",
+    "answer": "叮",
+    "options": [
+      "叙述",
+      "爱护",
+      "吵",
+      "叮"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "爱护",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "老师教育我们要从小_____小动物。",
+    "translation": "Giáo viên dạy chúng tôi từ nhỏ phải biết yêu thương động vật nhỏ.",
+    "answer": "爱护",
+    "options": [
+      "脑袋",
+      "靠",
+      "婚姻",
+      "爱护"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "患难与共",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "在经济危机期间，公司与所有员工_____。",
+    "translation": "Trong thời kỳ khủng hoảng kinh tế, công ty và nhân viên hoạn nạn có nhau.",
+    "answer": "患难与共",
+    "options": [
+      "患难与共",
+      "抱怨",
+      "暗暗",
+      "递"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "如何",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "第一对夫妻向大家讲述了他们是_____恩爱的。",
+    "translation": "Cặp thứ nhất kể cho mọi người nghe họ ân ái ra sao.",
+    "answer": "如何",
+    "options": [
+      "如何",
+      "等待",
+      "入围",
+      "吵"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "吵架",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "楼上的邻居昨天半夜又在_____，吵得我睡不着。",
+    "translation": "Hàng xóm tầng trên hôm qua nửa đêm lại cãi nhau, ồn đến mức tôi không ngủ được.",
+    "answer": "吵架",
+    "options": [
+      "评委",
+      "不耐烦",
+      "吵",
+      "吵架"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "自杀",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "遇到挫折不能轻生，_____绝对不是解决问题的办法。",
+    "translation": "Gặp trắc trở không được xem nhẹ mạng sống, tự sát tuyệt đối không phải là cách giải quyết.",
+    "answer": "自杀",
+    "options": [
+      "叮",
+      "自杀",
+      "对比",
+      "等待"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "叮",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "在户外做团建的时候，很多员工被蚊子_____了。",
+    "translation": "Khi tham gia teambuilding ngoài trời, nhiều nhân viên bị muỗi đốt.",
+    "answer": "叮",
+    "options": [
+      "叮",
+      "催",
+      "手指",
+      "伸"
+    ]
+  },
+  {
+    "id": 50,
+    "word": "恩爱",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "他们想选出一对最_____的夫妻。",
+    "translation": "Họ muốn chọn ra một cặp vợ chồng ân ái nhất.",
+    "answer": "恩爱",
+    "options": [
+      "项",
+      "靠",
+      "瘫痪",
+      "恩爱"
+    ]
+  },
+  {
+    "id": 51,
+    "word": "评委",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "_____们对我们的新产品非常满意。",
+    "translation": "Ban giám khảo rất hài lòng với sản phẩm mới của chúng ta.",
+    "answer": "评委",
+    "options": [
+      "评委",
+      "手指",
+      "入围",
+      "肩膀"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "细节",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "评委们认为，真正的爱往往体现在生活_____中。",
+    "translation": "Giám khảo cho rằng tình yêu đích thực thể hiện ở tiểu tiết.",
+    "answer": "细节",
+    "options": [
+      "患难与共",
+      "半夜",
+      "细节",
+      "叮"
+    ]
+  },
+  {
+    "id": 53,
+    "word": "催",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "看到他睡着了，评委们都没有_____他。",
+    "translation": "Thấy anh ngủ, giám khảo không hối thúc anh ấy nữa.",
+    "answer": "催",
+    "options": [
+      "暗暗",
+      "离婚",
+      "催",
+      "对比"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "老婆",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "丈夫为了不让_____被蚊子咬，打了一夜的蚊子。",
+    "translation": "Người chồng để vợ không bị muỗi đốt đã đánh muỗi cả đêm.",
+    "answer": "老婆",
+    "options": [
+      "暗暗",
+      "靠",
+      "蚊子",
+      "老婆"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "对比",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "_____后，有三对夫妻成功入围。",
+    "translation": "Sau khi so sánh, có 3 cặp vợ chồng lọt vào vòng trong thành công.",
+    "answer": "对比",
+    "options": [
+      "不耐烦",
+      "瘫痪",
+      "婚姻",
+      "对比"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "抱怨",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "我的室友每天都在_____食堂的饭菜不好吃。",
+    "translation": "Bạn cùng phòng của tôi ngày nào cũng phàn nàn đồ ăn ở căng tin không ngon.",
+    "answer": "抱怨",
+    "options": [
+      "相敬如宾",
+      "抱怨",
+      "电台",
+      "吵架"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "伸",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "早上醒来，他用力_____了一个懒腰。",
+    "translation": "Sáng sớm tỉnh dậy, anh ấy dùng sức vươn vai một cái.",
+    "answer": "伸",
+    "options": [
+      "离婚",
+      "伸",
+      "半夜",
+      "叙述"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "入围",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "我们公司成功_____了那个重要项目。",
+    "translation": "Công ty chúng ta đã lọt vào danh sách đấu thầu của dự án quan trọng đó.",
+    "answer": "入围",
+    "options": [
+      "靠",
+      "等待",
+      "离婚",
+      "入围"
+    ]
+  },
+  {
+    "id": 59,
+    "word": "婚姻",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "幸福的_____需要两个人共同去经营和维护。",
+    "translation": "Một cuộc hôn nhân hạnh phúc cần hai người cùng vun đắp và duy trì.",
+    "answer": "婚姻",
+    "options": [
+      "靠",
+      "项",
+      "评委",
+      "婚姻"
+    ]
+  },
+  {
+    "id": 60,
+    "word": "不耐烦",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "等交货等了很久，客户开始显得有些_____了。",
+    "translation": "Đợi giao hàng quá lâu, khách hàng bắt đầu mất kiên nhẫn.",
+    "answer": "不耐烦",
+    "options": [
+      "不耐烦",
+      "蚊子",
+      "评委",
+      "叙述"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "靠",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "男人的头_____在女人的肩膀上睡着了。",
+    "translation": "Đầu người đàn ông tựa vào vai người phụ nữ ngủ thiếp đi.",
+    "answer": "靠",
+    "options": [
+      "吵",
+      "瘫痪",
+      "抱怨",
+      "靠"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "等待",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "我们都在_____老板的最终决定。",
+    "translation": "Chúng tôi đều đang chờ đợi quyết định cuối cùng của sếp.",
+    "answer": "等待",
+    "options": [
+      "入围",
+      "如何",
+      "电台",
+      "等待"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "递",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "第一次见客户时，应该双手把名片_____给对方。",
+    "translation": "Lần đầu gặp khách, nên dùng hai tay đưa danh thiếp cho đối phương.",
+    "answer": "递",
+    "options": [
+      "暗暗",
+      "恩爱",
+      "自杀",
+      "递"
+    ]
+  },
+  {
+    "id": 64,
+    "word": "老婆",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "我们公司的财务总监其实是总经理的_____。",
+    "translation": "Giám đốc tài chính của công ty thực ra là vợ của Tổng giám đốc.",
+    "answer": "老婆",
+    "options": [
+      "细节",
+      "喊",
+      "入围",
+      "老婆"
+    ]
+  },
+  {
+    "id": 65,
+    "word": "瘫痪",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "昨天的暴雨导致整个城市的交通都_____了。",
+    "translation": "Trận mưa to hôm qua khiến giao thông toàn thành phố bị tê liệt.",
+    "answer": "瘫痪",
+    "options": [
+      "脑袋",
+      "瘫痪",
+      "吵架",
+      "居然"
+    ]
+  },
+  {
+    "id": 66,
+    "word": "如何",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "我们明天开会讨论这个问题该_____解决。",
+    "translation": "Ngày mai chúng ta mở họp để thảo luận xem vấn đề này nên giải quyết ra sao.",
+    "answer": "如何",
+    "options": [
+      "靠",
+      "患难与共",
+      "入围",
+      "如何"
+    ]
+  },
+  {
+    "id": 67,
+    "word": "女士",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "欢迎李_____加入我们公司的管理团队。",
+    "translation": "Hoan nghênh bà Lý gia nhập đội ngũ quản lý của công ty.",
+    "answer": "女士",
+    "options": [
+      "喊",
+      "女士",
+      "歪歪扭扭",
+      "催"
+    ]
+  },
+  {
+    "id": 68,
+    "word": "评委",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "这次歌唱比赛的_____非常严格，很多人都被淘汰了。",
+    "translation": "Giám khảo của cuộc thi hát lần này rất khắt khe, nhiều người đã bị loại.",
+    "answer": "评委",
+    "options": [
+      "入围",
+      "评委",
+      "叙述",
+      "叮"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "轮",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "今天_____到市场部汇报项目进度了。",
+    "translation": "Hôm nay đến lượt phòng Marketing báo cáo tiến độ.",
+    "answer": "轮",
+    "options": [
+      "轮",
+      "肩膀",
+      "离婚",
+      "暗暗"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "歪歪扭扭",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "这份报告的图表画得_____的，非常不专业。",
+    "translation": "Biểu đồ trong báo cáo này vẽ xiêu vẹo, rất thiếu chuyên nghiệp.",
+    "answer": "歪歪扭扭",
+    "options": [
+      "自杀",
+      "歪歪扭扭",
+      "催",
+      "叙述"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "对比",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "把这两款手机_____一下，你会发现屏幕差距很大。",
+    "translation": "So sánh hai mẫu điện thoại này một chút, bạn sẽ thấy sự khác biệt lớn về màn hình.",
+    "answer": "对比",
+    "options": [
+      "催",
+      "爱护",
+      "叙述",
+      "对比"
+    ]
+  },
+  {
+    "id": 72,
+    "word": "项",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "这个月公司成功签下了一_____大工程。",
+    "translation": "Tháng này công ty đã ký thành công một công trình lớn.",
+    "answer": "项",
+    "options": [
+      "半夜",
+      "肩膀",
+      "手指",
+      "项"
+    ]
+  },
+  {
+    "id": 73,
+    "word": "催",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "快点穿鞋吧，别让大家一直_____你。",
+    "translation": "Mau mang giày vào đi, đừng để mọi người cứ giục bạn mãi.",
+    "answer": "催",
+    "options": [
+      "催",
+      "入围",
+      "递",
+      "自杀"
+    ]
+  },
+  {
+    "id": 74,
+    "word": "手指",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "女人用_____了指写好的纸条。",
+    "translation": "Người phụ nữ dùng ngón tay chỉ vào tờ giấy.",
+    "answer": "手指",
+    "options": [
+      "手指",
+      "伸",
+      "入围",
+      "半夜"
+    ]
+  },
+  {
+    "id": 75,
+    "word": "伸",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "公司准备将业务_____向海外市场。",
+    "translation": "Công ty chuẩn bị vươn mạng lưới kinh doanh ra thị trường hải ngoại.",
+    "answer": "伸",
+    "options": [
+      "抱怨",
+      "叮",
+      "女士",
+      "伸"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "脑袋",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "解决这个棘手的商业问题需要大家多动动_____。",
+    "translation": "Giải quyết vấn đề nan giải này cần mọi người động não nhiều hơn.",
+    "answer": "脑袋",
+    "options": [
+      "不耐烦",
+      "轮",
+      "脑袋",
+      "肩膀"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "肩膀",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "女人让丈夫靠在自己的_____上休息。",
+    "translation": "Người phụ nữ để chồng tựa lên vai mình nghỉ ngơi.",
+    "answer": "肩膀",
+    "options": [
+      "叙述",
+      "女士",
+      "离婚",
+      "肩膀"
+    ]
+  },
+  {
+    "id": 78,
+    "word": "手指",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "现在我们只需动动_____就能完成电子合同的签署。",
+    "translation": "Hiện nay chúng ta chỉ cần động ngón tay là hoàn tất ký hợp đồng điện tử.",
+    "answer": "手指",
+    "options": [
+      "靠",
+      "抱怨",
+      "手指",
+      "离婚"
+    ]
+  },
+  {
+    "id": 79,
+    "word": "婚姻",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "两家公司的合并，就像一场门当户对的商业_____。",
+    "translation": "Sự sáp nhập của hai công ty giống như một cuộc hôn nhân thương mại.",
+    "answer": "婚姻",
+    "options": [
+      "如何",
+      "居然",
+      "吵",
+      "婚姻"
+    ]
+  },
+  {
+    "id": 80,
+    "word": "居然",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "为了不影响丈夫睡觉，她_____放弃了比赛。",
+    "translation": "Để chồng ngủ, cô ấy lại từ bỏ cuộc thi.",
+    "answer": "居然",
+    "options": [
+      "恩爱",
+      "手指",
+      "居然",
+      "相敬如宾"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "恩爱",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "他们老两口结婚五十年了，依然非常_____。",
+    "translation": "Hai ông bà kết hôn 50 năm rồi, vẫn vô cùng ân ái.",
+    "answer": "恩爱",
+    "options": [
+      "脑袋",
+      "吵",
+      "爱护",
+      "恩爱"
+    ]
+  },
+  {
+    "id": 82,
+    "word": "抱怨",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "丈夫一直照顾瘫痪的妻子，从来没有_____过。",
+    "translation": "Người chồng luôn chăm sóc người vợ bị liệt mà chưa bao giờ phàn nàn.",
+    "answer": "抱怨",
+    "options": [
+      "自杀",
+      "轮",
+      "伸",
+      "抱怨"
+    ]
+  },
+  {
+    "id": 83,
+    "word": "轮",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "终于_____到第三对夫妻上场了。",
+    "translation": "Cuối cùng cũng đến lượt cặp thứ ba lên sân khấu.",
+    "answer": "轮",
+    "options": [
+      "轮",
+      "抱怨",
+      "项",
+      "手指"
+    ]
+  },
+  {
+    "id": 84,
+    "word": "婚姻",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "他们的_____经历了重病和时间的考验。",
+    "translation": "Hôn nhân của họ đã trải qua thử thách của bạo bệnh và thời gian.",
+    "answer": "婚姻",
+    "options": [
+      "蚊子",
+      "评委",
+      "婚姻",
+      "叮"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "如何",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "遇到这种麻烦事，我们究竟该_____处理呢？",
+    "translation": "Gặp phải chuyện rắc rối thế này, rốt cuộc chúng ta nên xử lý thế nào?",
+    "answer": "如何",
+    "options": [
+      "喊",
+      "如何",
+      "叮",
+      "暗暗"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "细节",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "打扫房间时，不要忽略这些不起眼的_____。",
+    "translation": "Khi dọn phòng, đừng bỏ qua những chi tiết nhỏ nhặt này.",
+    "answer": "细节",
+    "options": [
+      "喊",
+      "歪歪扭扭",
+      "电台",
+      "细节"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "蚊子",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "办公室里_____太多了，我们需要找人来杀虫。",
+    "translation": "Văn phòng nhiều muỗi quá, cần gọi dịch vụ diệt côn trùng.",
+    "answer": "蚊子",
+    "options": [
+      "蚊子",
+      "抱怨",
+      "等待",
+      "对比"
+    ]
+  },
+  {
+    "id": 88,
+    "word": "恩爱",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "代言人的_____形象有助于提升品牌的好感度。",
+    "translation": "Hình ảnh đằm thắm của người đại diện giúp nâng cao thiện cảm thương hiệu.",
+    "answer": "恩爱",
+    "options": [
+      "瘫痪",
+      "手指",
+      "女士",
+      "恩爱"
+    ]
+  },
+  {
+    "id": 89,
+    "word": "肩膀",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "他把沉重的背包背在_____上，继续向前走。",
+    "translation": "Anh ấy đeo chiếc ba lô nặng trĩu lên vai, tiếp tục đi về phía trước.",
+    "answer": "肩膀",
+    "options": [
+      "评委",
+      "恩爱",
+      "肩膀",
+      "自杀"
+    ]
+  },
+  {
+    "id": 90,
+    "word": "吵架",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "合伙人之间经常_____会严重影响公司的发展。",
+    "translation": "Các đối tác thường xuyên cãi vã sẽ ảnh hưởng nghiêm trọng công ty.",
+    "answer": "吵架",
+    "options": [
+      "瘫痪",
+      "爱护",
+      "吵架",
+      "患难与共"
+    ]
+  },
+  {
+    "id": 91,
+    "word": "相敬如宾",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "第一对夫妻一直_____，互相尊重。",
+    "translation": "Cặp thứ nhất luôn tương kính như tân, tôn trọng lẫn nhau.",
+    "answer": "相敬如宾",
+    "options": [
+      "相敬如宾",
+      "不耐烦",
+      "抱怨",
+      "半夜"
+    ]
+  },
+  {
+    "id": 92,
+    "word": "自杀",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "这种毫无底线的降价策略简直是商业_____。",
+    "translation": "Chiến lược giảm giá không giới hạn này chẳng khác nào tự sát trong kinh doanh.",
+    "answer": "自杀",
+    "options": [
+      "瘫痪",
+      "伸",
+      "入围",
+      "自杀"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "伸",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "女人_____出一根手指放在嘴边，示意大家安静。",
+    "translation": "Người phụ nữ chìa một ngón tay đặt lên miệng ra hiệu im lặng.",
+    "answer": "伸",
+    "options": [
+      "吵架",
+      "评委",
+      "抱怨",
+      "伸"
+    ]
+  },
+  {
+    "id": 94,
+    "word": "项",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "这_____比赛最终选出了最恩爱的夫妻。",
+    "translation": "Cuộc thi / Hạng mục này cuối cùng đã chọn ra cặp vợ chồng ân ái nhất.",
+    "answer": "项",
+    "options": [
+      "项",
+      "对比",
+      "婚姻",
+      "居然"
+    ]
+  },
+  {
+    "id": 95,
+    "word": "居然",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "竞争对手_____比我们先发布了新产品！",
+    "translation": "Đối thủ cạnh tranh LẠI CÓ THỂ phát hành sản phẩm trước chúng ta!",
+    "answer": "居然",
+    "options": [
+      "递",
+      "伸",
+      "居然",
+      "评委"
+    ]
+  },
+  {
+    "id": 96,
+    "word": "脑袋",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "大家的_____里都充满了疑问。",
+    "translation": "Trong đầu mọi người đều đầy rẫy thắc mắc.",
+    "answer": "脑袋",
+    "options": [
+      "等待",
+      "叮",
+      "电台",
+      "脑袋"
+    ]
+  },
+  {
+    "id": 97,
+    "word": "叙述",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "女士_____了丈夫昨晚没有睡好的原因。",
+    "translation": "Người phụ nữ thuật lại lý do đêm qua chồng không ngủ ngon.",
+    "answer": "叙述",
+    "options": [
+      "爱护",
+      "叙述",
+      "脑袋",
+      "离婚"
+    ]
+  },
+  {
+    "id": 98,
+    "word": "吵",
+    "context": "Ngữ cảnh Doanh nghiệp",
+    "sentence": "办公室里太_____了，我根本无法集中精力工作。",
+    "translation": "Văn phòng ồn ào quá, tôi không thể tập trung làm việc.",
+    "answer": "吵",
+    "options": [
+      "递",
+      "吵",
+      "女士",
+      "电台"
+    ]
+  },
+  {
+    "id": 99,
+    "word": "不耐烦",
+    "context": "Ngữ cảnh Đời sống",
+    "sentence": "排队买票的人太多了，他等得有点_____了。",
+    "translation": "Người xếp hàng mua vé quá đông, anh ấy đợi đến mức có chút mất kiên nhẫn rồi.",
+    "answer": "不耐烦",
+    "options": [
+      "不耐烦",
+      "离婚",
+      "靠",
+      "脑袋"
+    ]
+  },
+  {
+    "id": 100,
+    "word": "半夜",
+    "context": "Ngữ cảnh Bài khóa",
+    "sentence": "丈夫_____起来为妻子打蚊子。",
+    "translation": "Nửa đêm người chồng thức dậy đánh muỗi cho vợ.",
+    "answer": "半夜",
+    "options": [
+      "女士",
+      "瘫痪",
+      "叮",
+      "半夜"
+    ]
+  }
+]

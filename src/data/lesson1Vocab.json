@@ -1,0 +1,306 @@
+[
+  { 
+    "hanzi": "细节", 
+    "pinyin": "xìjié", 
+    "meaning": "chi tiết", 
+    "analysis": "Hán Việt: TẾ TIẾT. 'Tế' (细) là nhỏ, 'Tiết' (节) là đốt/phần. Ghép lại là những phần rất nhỏ nhắn (chi tiết).",
+    "personalExample": "我是一个注意细节的人。(Tôi là một người chú ý đến chi tiết.)",
+    "businessExample": "请检查合同的每一个细节。(Xin hãy kiểm tra từng chi tiết của hợp đồng.)"
+  },
+  {
+    "hanzi": "电台",
+    "pinyin": "diàntái",
+    "meaning": "đài phát thanh",
+    "analysis": "Hán Việt: ĐIỆN ĐÀI. 'Điện' (电) là điện/sóng, 'Đài' (台) là trạm. Trạm phát sóng điện.",
+    "personalExample": "我每天早上都听电台广播。(Sáng nào tôi cũng nghe đài phát thanh.)",
+    "businessExample": "我们公司准备在电台打广告。(Công ty chúng ta chuẩn bị quảng cáo trên đài phát thanh.)"
+  },
+  {
+    "hanzi": "恩爱",
+    "pinyin": "ēn'ài",
+    "meaning": "ân ái, đằm thắm",
+    "analysis": "Hán Việt: ÂN ÁI. 'Ân' (恩) là ơn nghĩa, 'Ái' (爱) là tình yêu. Tình cảm vợ chồng vừa có tình yêu vừa có ơn nghĩa sâu nặng.",
+    "personalExample": "我的父母非常恩爱。(Bố mẹ tôi rất ân ái.)",
+    "businessExample": "他们的恩爱形象有助于提升品牌好感度。(Hình ảnh đằm thắm của họ giúp tăng thiện cảm cho thương hiệu.)"
+  },
+  { 
+    "hanzi": "对比", 
+    "pinyin": "duìbǐ", 
+    "meaning": "so sánh", 
+    "analysis": "Hán Việt: ĐỐI TỶ. 'Đối' (对) là đối chiếu/đối mặt, 'Tỷ' (比) là so sánh. Đặt hai thứ cạnh nhau để so sánh.",
+    "personalExample": "对比去年，我今年胖了。(So sánh với năm ngoái, năm nay tôi béo lên rồi.)",
+    "businessExample": "我们要对比两家公司的价格。(Chúng ta cần so sánh giá của hai công ty.)"
+  },
+  { 
+    "hanzi": "入围", 
+    "pinyin": "rùwéi", 
+    "meaning": "lọt vào vòng trong", 
+    "analysis": "Hán Việt: NHẬP VI. 'Nhập' (入) là đi vào, 'Vi' (围) là vòng vây/chu vi. Đi vào được vòng tuyển chọn bên trong.",
+    "personalExample": "我的作品入围了比赛。(Tác phẩm của tôi đã lọt vào vòng trong của cuộc thi.)",
+    "businessExample": "我们公司入围了那个项目。(Công ty chúng ta đã lọt vào danh sách trúng thầu dự án đó.)"
+  },
+  { 
+    "hanzi": "评委", 
+    "pinyin": "píngwěi", 
+    "meaning": "giám khảo", 
+    "analysis": "Hán Việt: BÌNH ỦY. 'Bình' (评) trong bình luận/đánh giá, 'Ủy' (委) trong ủy ban. Hội đồng những người đưa ra đánh giá.",
+    "personalExample": "他曾担任过歌唱比赛的评委。(Anh ấy từng làm giám khảo cuộc thi hát.)",
+    "businessExample": "评委们对我们的产品很满意。(Ban giám khảo rất hài lòng với sản phẩm của chúng ta.)"
+  },
+  { 
+    "hanzi": "如何", 
+    "pinyin": "rúhé", 
+    "meaning": "như thế nào", 
+    "analysis": "Hán Việt: NHƯ HÀ. 'Như' (如) là giống như, 'Hà' (何) là thế nào/ra sao. Cách dùng lịch sự của 怎么.",
+    "personalExample": "你最近身体如何？(Gần đây sức khỏe của bạn thế nào?)",
+    "businessExample": "我们该如何提高公司的利润？(Chúng ta nên làm thế nào để tăng lợi nhuận của công ty?)"
+  },
+  {
+    "hanzi": "瘫痪",
+    "pinyin": "tānhuàn",
+    "meaning": "bị liệt",
+    "analysis": "Hán Việt: THAN HOÁN. Cả hai chữ đều có bộ 'Nạch' (疒) chỉ bệnh tật, biểu thị cơ thể mất khả năng hoạt động.",
+    "personalExample": "他的腿瘫痪了。(Chân của anh ấy bị liệt rồi.)",
+    "businessExample": "由于停电，整个工厂的生产线瘫痪了。(Do mất điện, toàn bộ dây chuyền sản xuất của nhà máy bị tê liệt.)"
+  },
+  {
+    "hanzi": "离婚",
+    "pinyin": "líhūn",
+    "meaning": "ly hôn",
+    "analysis": "Hán Việt: LY HÔN. 'Ly' (离) là phân ly/rời xa, 'Hôn' (婚) là hôn nhân.",
+    "personalExample": "他们性格不合，最后离婚了。(Họ không hợp tính nhau, cuối cùng đã ly hôn.)",
+    "businessExample": "两位创始人决定离婚，分头创业。(Hai nhà sáng lập quyết định 'ly hôn', chia tay để khởi nghiệp riêng.)"
+  },
+  {
+    "hanzi": "自杀",
+    "pinyin": "zìshā",
+    "meaning": "tự sát",
+    "analysis": "Hán Việt: TỰ SÁT. 'Tự' (自) là bản thân, 'Sát' (杀) là giết.",
+    "personalExample": "电影里的主角想自杀。(Nhân vật chính trong phim muốn tự tử.)",
+    "businessExample": "这种降价策略简直是商业自杀。(Chiến lược giảm giá này chẳng khác nào tự sát trong kinh doanh.)"
+  },
+  { 
+    "hanzi": "抱怨", 
+    "pinyin": "bàoyuàn", 
+    "meaning": "oán trách, phàn nàn", 
+    "analysis": "Hán Việt: BÃO OÁN. 'Bão' (抱) là ôm (có bộ thủ 扌 tay), 'Oán' (怨) là oán giận. Hình ảnh ôm khư khư nỗi oán hận trong lòng dẫn đến phàn nàn.",
+    "personalExample": "别抱怨了，快点做吧。(Đừng phàn nàn nữa, làm mau đi.)",
+    "businessExample": "我们要好好处理客户的抱怨。(Chúng ta phải xử lý tốt những phàn nàn của khách hàng.)"
+  },
+  {
+    "hanzi": "爱护",
+    "pinyin": "àihù",
+    "meaning": "yêu quý, bảo vệ",
+    "analysis": "Hán Việt: ÁI HỘ. 'Ái' (爱) là yêu, 'Hộ' (护) là bảo hộ/che chở. Dành tình yêu để che chở cho một đối tượng.",
+    "personalExample": "我们要爱护小动物。(Chúng ta phải yêu quý bảo vệ động vật nhỏ.)",
+    "businessExample": "公司要求员工爱护公共财物。(Công ty yêu cầu nhân viên bảo vệ tài sản chung.)"
+  },
+  {
+    "hanzi": "婚姻",
+    "pinyin": "hūnyīn",
+    "meaning": "hôn nhân",
+    "analysis": "Hán Việt: HÔN NHÂN. Cả hai chữ đều có bộ 'Nữ' (女) vì thời xưa việc cưới xin liên quan mật thiết đến người phụ nữ.",
+    "personalExample": "他们的婚姻很幸福。(Hôn nhân của họ rất hạnh phúc.)",
+    "businessExample": "两家公司合并，就像一场商业婚姻。(Hai công ty sáp nhập, giống như một cuộc hôn nhân thương mại.)"
+  },
+  {
+    "hanzi": "吵架",
+    "pinyin": "chǎo jià",
+    "meaning": "cãi nhau",
+    "analysis": "Hán Việt: SẢO GIÁ. 'Sảo' (吵) có bộ khẩu (口) chỉ âm thanh ồn ào. 'Giá' (架) là cái khung/đánh nhau. Khẩu chiến ồn ào.",
+    "personalExample": "昨天我和朋友吵架了。(Hôm qua tôi và bạn cãi nhau.)",
+    "businessExample": "合伙人之间吵架会影响公司发展。(Các đối tác cãi vã sẽ ảnh hưởng đến sự phát triển công ty.)"
+  },
+  {
+    "hanzi": "相敬如宾",
+    "pinyin": "xiāngjìng rúbīn",
+    "meaning": "tương kính như tân",
+    "analysis": "Thành ngữ. 'Tương kính' (相敬) là kính trọng lẫn nhau, 'như tân' (如宾) là như khách. Vợ chồng tôn trọng nhau như khách quý.",
+    "personalExample": "我的爷爷奶奶一生相敬如宾。(Ông bà tôi cả đời tôn trọng nhau như khách quý.)",
+    "businessExample": "在合作中，双方应该相敬如宾。(Trong hợp tác, hai bên nên tôn trọng lẫn nhau một cách chuyên nghiệp.)"
+  },
+  {
+    "hanzi": "暗暗",
+    "pinyin": "àn'àn",
+    "meaning": "thầm, ngấm ngầm",
+    "analysis": "Hán Việt: ÁM ÁM. 'Ám' (暗) là bóng tối/khuất lấp. Chỉ hành động diễn ra trong âm thầm không ai biết.",
+    "personalExample": "听了她的话，我暗暗下了决心。(Nghe những lời cô ấy nói, tôi thầm hạ quyết tâm.)",
+    "businessExample": "两家公司在市场上暗暗竞争。(Hai công ty đang ngấm ngầm cạnh tranh trên thị trường.)"
+  },
+  {
+    "hanzi": "轮",
+    "pinyin": "lún",
+    "meaning": "luân phiên, lượt",
+    "analysis": "Hán Việt: LUÂN. Có bộ 'Xa' (车 - xe), hình ảnh bánh xe xoay vòng biểu thị sự luân phiên.",
+    "personalExample": "今天轮到我打扫房间。(Hôm nay đến lượt tôi dọn phòng.)",
+    "businessExample": "我们开始了新一轮的投资。(Chúng tôi đã bắt đầu một vòng đầu tư mới.)"
+  },
+  {
+    "hanzi": "不耐烦",
+    "pinyin": "bú nàifán",
+    "meaning": "sốt ruột, bực mình",
+    "analysis": "Hán Việt: BẤT NẠI PHIỀN. 'Bất' (không), 'Nại' (nhẫn nại), 'Phiền' (phiền phức). Không thể nhẫn nại trước sự phiền phức.",
+    "personalExample": "等了半个小时，他开始有点儿不耐烦了。(Đợi nửa tiếng đồng hồ, anh ta bắt đầu hơi sốt ruột.)",
+    "businessExample": "面对客户的抱怨，客服人员不能不耐烦。(Đối mặt với phàn nàn của khách, nhân viên CSKH không được bực dọc.)"
+  },
+  {
+    "hanzi": "靠",
+    "pinyin": "kào",
+    "meaning": "dựa, tựa",
+    "analysis": "Hán Việt: KHẢO. Chữ 'Cáo' (告) dưới chữ 'Phi' (非). Biểu thị việc dựa dẫm vào thứ gì đó để tìm sự nâng đỡ.",
+    "personalExample": "她把头靠在我的肩膀上。(Cô ấy tựa đầu vào vai tôi.)",
+    "businessExample": "我们在家靠父母，出门靠朋友，做生意靠信誉。(Ở nhà dựa bố mẹ, ra ngoài dựa bạn bè, làm ăn dựa vào uy tín.)"
+  },
+  {
+    "hanzi": "肩膀",
+    "pinyin": "jiānbǎng",
+    "meaning": "bờ vai",
+    "analysis": "Hán Việt: KIÊN BÀNG. Cả hai chữ đều có bộ 'Nhục' (月 - thịt/cơ thể) chỉ các bộ phận trên cơ thể người.",
+    "personalExample": "我的肩膀有点疼。(Vai tôi hơi đau.)",
+    "businessExample": "作为团队领导，你需要有承担责任的肩膀。(Là trưởng nhóm, bạn cần có bờ vai gánh vác trách nhiệm.)"
+  },
+  {
+    "hanzi": "喊",
+    "pinyin": "hǎn",
+    "meaning": "kêu, gọi lớn",
+    "analysis": "Hán Việt: HẢM. Có bộ khẩu (口) chỉ hành động phát ra âm thanh từ miệng.",
+    "personalExample": "有人在门外喊我的名字。(Có người đang gọi lớn tên tôi ngoài cửa.)",
+    "businessExample": "老板在办公室里喊他进去。(Sếp gọi lớn anh ta vào trong văn phòng.)"
+  },
+  {
+    "hanzi": "伸",
+    "pinyin": "shēn",
+    "meaning": "duỗi, chìa ra",
+    "analysis": "Hán Việt: THÂN. Bộ 'Nhân đứng' (亻) kết hợp chữ 'Thân' (申 - vươn ra). Người vươn dài tay chân.",
+    "personalExample": "早上起床，我伸了一个懒腰。(Sáng thức dậy, tôi vươn vai một cái.)",
+    "businessExample": "公司准备把业务伸向海外市场。(Công ty chuẩn bị vươn cánh tay nghiệp vụ ra thị trường nước ngoài.)"
+  },
+  {
+    "hanzi": "手指",
+    "pinyin": "shǒuzhǐ",
+    "meaning": "ngón tay",
+    "analysis": "Hán Việt: THỦ CHỈ. 'Thủ' (手) là tay, 'Chỉ' (指) là chỉ trỏ. Bộ phận của tay dùng để chỉ trỏ.",
+    "personalExample": "他不小心切到了手指。(Anh ấy vô tình cắt vào ngón tay.)",
+    "businessExample": "在谈判桌上，不要用手指着对方。(Trên bàn đàm phán, đừng dùng ngón tay chỉ vào đối phương.)"
+  },
+  {
+    "hanzi": "歪歪扭扭",
+    "pinyin": "wāiwāiniǔniǔ",
+    "meaning": "xiêu vẹo, ngoằn ngoèo",
+    "analysis": "Chữ 'Oai' (歪) ghép bởi chữ 'Bất' (不 - không) và 'Chính' (正 - thẳng). Không thẳng tức là bị xiêu vẹo.",
+    "personalExample": "弟弟写的字歪歪扭扭的。(Chữ em trai viết xiêu xiêu vẹo vẹo.)",
+    "businessExample": "这份草案排版歪歪扭扭，显得很不专业。(Bản nháp này dàn trang xiêu vẹo, trông rất thiếu chuyên nghiệp.)"
+  },
+  {
+    "hanzi": "递",
+    "pinyin": "dì",
+    "meaning": "đưa, chuyển",
+    "analysis": "Hán Việt: ĐỆ. Có bộ 'Xước' (辶) biểu thị sự di chuyển, đưa đồ vật từ người này sang người kia.",
+    "personalExample": "请把那本书递给我。(Xin hãy đưa quyển sách đó cho tôi.)",
+    "businessExample": "他把名片递给了客户。(Anh ấy đưa danh thiếp cho khách hàng.)"
+  },
+  {
+    "hanzi": "脑袋",
+    "pinyin": "nǎodai",
+    "meaning": "cái đầu, trí óc",
+    "analysis": "Hán Việt: NÃO ĐẠI. 'Não' (脑) là bộ não, 'Đại' (袋) là cái túi. Chiếc túi chứa bộ não = cái đầu.",
+    "personalExample": "我今天脑袋有点疼。(Hôm nay đầu tôi hơi đau.)",
+    "businessExample": "做生意要有一个聪明的脑袋。(Làm kinh doanh cần có một cái đầu thông minh.)"
+  },
+  {
+    "hanzi": "女士",
+    "pinyin": "nǚshì",
+    "meaning": "bà, cô (lịch sự)",
+    "analysis": "Hán Việt: NỮ SĨ. 'Nữ' (女) là phụ nữ, 'Sĩ' (士) là người có địa vị. Cách gọi tôn trọng dành cho phái nữ.",
+    "personalExample": "王女士是我的邻居。(Bà Vương là hàng xóm của tôi.)",
+    "businessExample": "各位女士，各位先生，欢迎参加今天的会议。(Kính thưa các quý bà, quý ông, chào mừng đến với cuộc họp hôm nay.)"
+  },
+  {
+    "hanzi": "叙述",
+    "pinyin": "xùshù",
+    "meaning": "thuật lại, kể lại",
+    "analysis": "Hán Việt: TỰ THUẬT. Cả hai chữ đều mang nghĩa kể chuyện, nói ra sự thật đã xảy ra.",
+    "personalExample": "请叙述一下事情的经过。(Xin hãy thuật lại diễn biến sự việc.)",
+    "businessExample": "在报告中，他详细叙述了项目的进展。(Trong báo cáo, anh ấy đã thuật lại chi tiết tiến độ dự án.)"
+  },
+  {
+    "hanzi": "居然",
+    "pinyin": "jūrán",
+    "meaning": "lại, lại có thể",
+    "analysis": "Hán Việt: CƯ NHIÊN. Dùng để nhấn mạnh sự bất ngờ, ngoài dự kiến.",
+    "personalExample": "那么难的菜，他居然会做。(Món ăn khó thế mà anh ấy lại biết nấu.)",
+    "businessExample": "我们的提案居然被拒绝了。(Bản đề xuất của chúng ta LẠI bị từ chối rồi.)"
+  },
+  {
+    "hanzi": "催",
+    "pinyin": "cuī",
+    "meaning": "thúc giục",
+    "analysis": "Hán Việt: THÔI. Có bộ 'Nhân đứng' (亻), chỉ việc người này hối thúc người kia làm gì đó nhanh lên.",
+    "personalExample": "妈妈每天早上都催我起床。(Sáng nào mẹ cũng giục tôi thức dậy.)",
+    "businessExample": "客户一直在催促我们交货。(Khách hàng liên tục thúc giục chúng ta giao hàng.)"
+  },
+  { 
+    "hanzi": "等待", 
+    "pinyin": "děngdài", 
+    "meaning": "đợi, chờ", 
+    "analysis": "Hán Việt: ĐẲNG ĐÃI. Đều mang nghĩa là đợi chờ. 'Đẳng' (等) có bộ Trúc, 'Đãi' (待) có bộ Xích (bước đi chậm chạp).",
+    "personalExample": "我每天都在等待你的电话。(Mỗi ngày tôi đều chờ đợi điện thoại của bạn.)",
+    "businessExample": "我们在等待老板的决定。(Chúng tôi đang chờ quyết định của sếp.)"
+  },
+  {
+    "hanzi": "蚊子",
+    "pinyin": "wénzi",
+    "meaning": "con muỗi",
+    "analysis": "Hán Việt: VĂN TỬ. 'Văn' (蚊) có bộ 'Trùng' (虫 - côn trùng) và chữ Văn (文) để chỉ âm đọc.",
+    "personalExample": "昨天晚上有只蚊子咬了我。(Tối qua có con muỗi đốt tôi.)",
+    "businessExample": "这个市场的利润太小，就像蚊子肉。(Lợi nhuận của thị trường này quá nhỏ, cứ như thịt muỗi vậy.)"
+  },
+  {
+    "hanzi": "半夜",
+    "pinyin": "bànyè",
+    "meaning": "nửa đêm",
+    "analysis": "Hán Việt: BÁN DẠ. 'Bán' (半) là một nửa, 'Dạ' (夜) là ban đêm.",
+    "personalExample": "他半夜才回到家。(Nửa đêm anh ấy mới về đến nhà.)",
+    "businessExample": "为了赶报告，团队加班到半夜。(Để kịp báo cáo, nhóm đã tăng ca đến nửa đêm.)"
+  },
+  {
+    "hanzi": "叮",
+    "pinyin": "dīng",
+    "meaning": "đốt, chích",
+    "analysis": "Hán Việt: ĐINH. Có bộ Khẩu (口) và chữ Đinh (丁). Muỗi dùng miệng (khẩu) cắm như cái đinh (đinh) vào da.",
+    "personalExample": "我被蚊子叮了一个包。(Tôi bị muỗi đốt một vết sưng.)",
+    "businessExample": "老板叮嘱我们要仔细。(Sếp ĐINH ninh / căn dặn chúng tôi phải cẩn thận.)"
+  },
+  {
+    "hanzi": "老婆",
+    "pinyin": "lǎopo",
+    "meaning": "vợ",
+    "analysis": "Hán Việt: LÃO BÀ. 'Lão' (老) là già/cũ, 'Bà' (婆) là phụ nữ lớn tuổi. Cách gọi thân mật của người chồng.",
+    "personalExample": "我老婆做饭很好吃。(Vợ tôi nấu ăn rất ngon.)",
+    "businessExample": "成功的男士背后往往有一位支持他的老婆。(Sau lưng người đàn ông thành đạt thường có một người vợ ủng hộ anh ấy.)"
+  },
+  {
+    "hanzi": "吵",
+    "pinyin": "chǎo",
+    "meaning": "ồn ào, làm ồn",
+    "analysis": "Hán Việt: SẢO. Bộ Khẩu (口) ghép với chữ Thiếu (少). Nhiều miệng (cãi nhau) mà thấy thiếu, tạo ra tiếng ồn ào.",
+    "personalExample": "外面太吵了，我睡不着。(Bên ngoài ồn quá, tôi không ngủ được.)",
+    "businessExample": "办公室里太吵，影响工作效率。(Văn phòng quá ồn ào, ảnh hưởng đến hiệu suất làm việc.)"
+  },
+  {
+    "hanzi": "项",
+    "pinyin": "xiàng",
+    "meaning": "hạng mục, dự án (lượng từ)",
+    "analysis": "Hán Việt: HẠNG. Dùng làm lượng từ cho những thứ phân chia theo phần, theo dự án.",
+    "personalExample": "我必须完成这项任务。(Tôi bắt buộc phải hoàn thành nhiệm vụ này.)",
+    "businessExample": "这是一家公司的重点项目。(Đây là một dự án/hạng mục trọng điểm của công ty.)"
+  },
+  {
+    "hanzi": "患难与共",
+    "pinyin": "huànnàn yǔgòng",
+    "meaning": "hoạn nạn có nhau",
+    "analysis": "Thành ngữ Hán Việt: HOẠN NẠN DỮ CỘNG. 'Hoạn nạn' là khó khăn, 'dữ' (与) là cùng, 'cộng' (共) là chung.",
+    "personalExample": "他们是一对患难与共的好朋友。(Họ là đôi bạn tốt hoạn nạn có nhau.)",
+    "businessExample": "在经济危机中，公司与员工患难与共。(Trong khủng hoảng kinh tế, công ty và nhân viên hoạn nạn có nhau.)"
+  }
+]
