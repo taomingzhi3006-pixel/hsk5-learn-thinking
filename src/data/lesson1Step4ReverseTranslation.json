@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "vietnamese": "Đài phát thanh tổ chức một cuộc thi chọn ra cặp vợ chồng ân ái nhất.",
+    "chinese": "电台举办了一个选出最恩爱夫妻的比赛。",
+    "pinyin": "Diàntái jǔbàn le yí ge xuǎn chū zuì ēn'ài fūqī de bǐsài.",
+    "hints": ["电台", "恩爱"]
+  },
+  {
+    "id": 2,
+    "vietnamese": "So với những người khác, câu chuyện của họ cảm động hơn nhiều.",
+    "chinese": "对比其他人，他们的故事感人得多。",
+    "pinyin": "Duìbǐ qítā rén, tāmen de gùshi gǎnrén de duō.",
+    "hints": ["对比"]
+  },
+  {
+    "id": 3,
+    "vietnamese": "Họ đã lọt vào danh sách 3 cặp đôi cuối cùng, ban giám khảo đang đánh giá.",
+    "chinese": "他们入围了最后三对，评委们正在进行评估。",
+    "pinyin": "Tāmen rùwéi le zuìhòu sān duì, píngwěimen zhèngzài jìnxíng pínggū.",
+    "hints": ["入围", "评委"]
+  },
+  {
+    "id": 4,
+    "vietnamese": "Tôi không biết làm thế nào để giải quyết vấn đề này.",
+    "chinese": "我不知道该如何解决这个问题。",
+    "pinyin": "Wǒ bù zhīdào gāi rúhé jiějué zhège wèntí.",
+    "hints": ["如何"]
+  },
+  {
+    "id": 5,
+    "vietnamese": "Chồng cô ấy bị liệt nhiều năm nay, nhưng cô ấy vẫn luôn chăm sóc anh ấy.",
+    "chinese": "她丈夫瘫痪多年了，但她一直照顾他。",
+    "pinyin": "Tā zhàngfu tānhuàn duō nián le, dàn tā yìzhí zhàogù tā.",
+    "hints": ["瘫痪"]
+  },
+  {
+    "id": 6,
+    "vietnamese": "Họ tôn trọng nhau như khách quý, từ trước đến nay chưa bao giờ cãi nhau.",
+    "chinese": "他们相敬如宾，从来没有吵过架。",
+    "pinyin": "Tāmen xiāngjìng rúbīn, cónglái méiyǒu chǎoguò jià.",
+    "hints": ["相敬如宾", "吵架"]
+  },
+  {
+    "id": 7,
+    "vietnamese": "Chuyện nhỏ nhặt như vậy, anh ấy lại có thể phàn nàn suốt cả ngày.",
+    "chinese": "这么小的细节，他居然抱怨了一整天。",
+    "pinyin": "Zhème xiǎo de xìjié, tā jūrán bàoyuàn le yì zhěng tiān.",
+    "hints": ["居然", "抱怨", "细节"]
+  },
+  {
+    "id": 8,
+    "vietnamese": "Vợ anh ấy dựa đầu vào vai anh ấy và ngủ thiếp đi.",
+    "chinese": "他老婆把头靠在他的肩膀上睡着了。",
+    "pinyin": "Tā lǎopo bǎ tóu kào zài tā de jiānbǎng shàng shuìzháo le.",
+    "hints": ["老婆", "靠", "肩膀"]
+  },
+  {
+    "id": 9,
+    "vietnamese": "Nửa đêm, anh ấy thầm hạ quyết tâm không để muỗi đốt vợ.",
+    "chinese": "半夜里，他暗暗下决心不让蚊子叮老婆。",
+    "pinyin": "Bànyè lǐ, tā àn'àn xià juéxīn bú ràng wénzi dīng lǎopo.",
+    "hints": ["半夜", "暗暗", "蚊子", "叮"]
+  },
+  {
+    "id": 10,
+    "vietnamese": "Khách hàng có chút sốt ruột, liên tục thúc giục chúng ta giao hàng.",
+    "chinese": "客户有点儿不耐烦，一直在催我们交货。",
+    "pinyin": "Kèhù yǒudiǎnr bú nàifán, yìzhí zài cuī wǒmen jiāohuò.",
+    "hints": ["不耐烦", "催"]
+  },
+  {
+    "id": 11,
+    "vietnamese": "Đã đến lượt bạn thuật lại câu chuyện của mình rồi.",
+    "chinese": "已经轮到你叙述自己的故事了。",
+    "pinyin": "Yǐjīng lúndào nǐ xùshù zìjǐ de gùshi le.",
+    "hints": ["轮", "叙述"]
+  },
+  {
+    "id": 12,
+    "vietnamese": "Cô ấy đưa tờ giấy viết những dòng chữ ngoằn ngoèo cho tôi.",
+    "chinese": "她把写着歪歪扭扭的字的纸递给我。",
+    "pinyin": "Tā bǎ xiězhe wāiwāiniǔniǔ de zì de zhǐ dì gěi wǒ.",
+    "hints": ["歪歪扭扭", "递"]
+  },
+  {
+    "id": 13,
+    "vietnamese": "Anh ấy vươn ngón tay ra chỉ vào dòng chữ trên giấy.",
+    "chinese": "他伸出手指，指着纸上的字。",
+    "pinyin": "Tā shēn chū shǒuzhǐ, zhǐ zhe zhǐ shàng de zì.",
+    "hints": ["伸", "手指"]
+  },
+  {
+    "id": 14,
+    "vietnamese": "Cuộc hôn nhân của họ là một ví dụ điển hình của việc hoạn nạn có nhau.",
+    "chinese": "他们的婚姻是患难与共的典型例子。",
+    "pinyin": "Tāmen de hūnyīn shì huànnàn yǔgòng de diǎn xíng lìzi.",
+    "hints": ["婚姻", "患难与共"]
+  },
+  {
+    "id": 15,
+    "vietnamese": "Nữ giám khảo nghe xong câu chuyện cảm động này liền rơi nước mắt.",
+    "chinese": "女评委听完这个感人的故事后流下了眼泪。",
+    "pinyin": "Nǚ píngwěi tīng wán zhège gǎnrén de gùshi hòu liú xià le yǎnlèi.",
+    "hints": ["女士 / 女评委"]
+  },
+  {
+    "id": 16,
+    "vietnamese": "Sự thành bại của dự án này hoàn toàn dựa vào những chi tiết nhỏ.",
+    "chinese": "这项项目的成败完全靠那些小细节。",
+    "pinyin": "Zhè xiàng xiàngmù de chéngbài wánquán kào nàxiē xiǎo xìjié.",
+    "hints": ["项", "靠", "细节"]
+  },
+  {
+    "id": 17,
+    "vietnamese": "Trong lúc chờ đợi, anh ấy lớn tiếng gọi tên cô ấy.",
+    "chinese": "在等待的时候，他大声喊着她的名字。",
+    "pinyin": "Zài děngdài de shíhòu, tā dàshēng hǎn zhe tā de míngzi.",
+    "hints": ["等待", "喊"]
+  },
+  {
+    "id": 18,
+    "vietnamese": "Sau khi ly hôn, anh ấy đau khổ đến mức muốn tự sát.",
+    "chinese": "离婚后，他痛苦得想自杀。",
+    "pinyin": "Líhūn hòu, tā tòngkǔ de xiǎng zìshā.",
+    "hints": ["离婚", "自杀"]
+  },
+  {
+    "id": 19,
+    "vietnamese": "Công ty yêu cầu mọi người phải yêu quý và bảo vệ tài sản chung.",
+    "chinese": "公司要求大家必须爱护公共财产。",
+    "pinyin": "Gōngsī yāoqiú dàjiā bìxū àihù gōnggòng cáichǎn.",
+    "hints": ["爱护"]
+  },
+  {
+    "id": 20,
+    "vietnamese": "Trong đầu anh ấy bây giờ chỉ toàn là công việc, ồn ào không chịu nổi.",
+    "chinese": "他现在的脑袋里全是工作，吵得受不了。",
+    "pinyin": "Tā xiànzài de nǎodai lǐ quán shì gōngzuò, chǎo de shòubuliǎo.",
+    "hints": ["脑袋", "吵"]
+  }
+]

@@ -35,7 +35,7 @@ export default function Step6Assessment() {
 
   return (
     <div>
-      <h2 className="page-title">Bước 8: Đánh giá Năng lực (HSK5 Standard)</h2>
+      <h2 className="page-title">Bước 9: Đánh giá Năng lực (HSK5 Standard)</h2>
       <p className="page-subtitle" style={{ marginBottom: '2rem' }}>
         Hoàn thành bài kiểm tra 60 câu mô phỏng đề thi HSK5 thực tế, tập trung hoàn toàn vào nội dung Bài khóa 1.
       </p>

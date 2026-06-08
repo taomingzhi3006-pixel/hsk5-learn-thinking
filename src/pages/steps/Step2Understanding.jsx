@@ -63,71 +63,73 @@ export default function Step2Understanding() {
   ];
 
   return (
-    <div>
-      <h2 className="page-title">Bước 2: Hiểu bản chất (Ngữ pháp & Cấu trúc)</h2>
+    <div className="animate-fade-in">
+      <h2 className="page-title">Bước 2: Hiểu bản chất</h2>
       <p className="page-subtitle" style={{ marginBottom: '2rem' }}>
-        Phân tích loại từ, cấu trúc câu và ứng dụng qua 5 ví dụ thực tế (Đời sống & Doanh nghiệp).
+        Nắm vững ngữ pháp trọng điểm và phân tích cấu trúc bài khóa.
       </p>
 
-      {grammarPoints.map((grammar, index) => (
-        <div key={index} className="card" style={{ marginBottom: '2rem', borderTop: '4px solid var(--secondary-color)' }}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '1.5rem' }}>
+      <div className="animate-fade-in">
+        {grammarPoints.map((grammar, index) => (
+          <div key={index} className="card" style={{ marginBottom: '2rem', borderTop: '4px solid var(--secondary-color)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '1.5rem' }}>
+              <div>
+                <h3 style={{ fontSize: '1.75rem', color: 'var(--primary-color)', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                  <Target size={28} color="var(--secondary-color)" /> 
+                  {index + 1}. {grammar.word} 
+                  <span style={{ fontSize: '1.25rem', color: 'var(--text-secondary)', fontWeight: 'normal' }}>({grammar.pinyin})</span>
+                  <span style={{ fontSize: '1.125rem', color: 'var(--accent-color)', fontWeight: 'normal' }}>- {grammar.translation}</span>
+                </h3>
+              </div>
+              <div style={{ backgroundColor: '#EEF2FF', color: '#4F46E5', padding: '0.35rem 0.85rem', borderRadius: '9999px', fontWeight: '600', fontSize: '0.875rem' }}>
+                {grammar.type}
+              </div>
+            </div>
+
+            <p style={{ color: 'var(--text-primary)', marginBottom: '1.5rem', fontSize: '1.05rem', lineHeight: '1.6' }}>
+              <strong>Bản chất:</strong> {grammar.explanation}
+            </p>
+
+            <div style={{ backgroundColor: '#F8FAFC', padding: '1rem 1.5rem', borderRadius: 'var(--radius-md)', borderLeft: '3px solid #94A3B8', marginBottom: '2rem' }}>
+              <h4 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.75rem', color: '#334155' }}>
+                <Layers size={18} /> Cấu trúc câu
+              </h4>
+              <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem', color: '#475569', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                {grammar.structures.map((struct, i) => (
+                  <li key={i} style={{ fontSize: '0.95rem' }}>{struct}</li>
+                ))}
+              </ul>
+            </div>
+
             <div>
-              <h3 style={{ fontSize: '1.75rem', color: 'var(--primary-color)', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
-                <Target size={28} color="var(--secondary-color)" /> 
-                {index + 1}. {grammar.word} 
-                <span style={{ fontSize: '1.25rem', color: 'var(--text-secondary)', fontWeight: 'normal' }}>({grammar.pinyin})</span>
-                <span style={{ fontSize: '1.125rem', color: 'var(--accent-color)', fontWeight: 'normal' }}>- {grammar.translation}</span>
-              </h3>
-            </div>
-            <div style={{ backgroundColor: '#EEF2FF', color: '#4F46E5', padding: '0.35rem 0.85rem', borderRadius: '9999px', fontWeight: '600', fontSize: '0.875rem' }}>
-              {grammar.type}
+              <h4 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1rem', color: 'var(--primary-color)' }}>
+                <BookOpen size={18} /> 5 Ví dụ ứng dụng
+              </h4>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                {grammar.examples.map((ex, i) => (
+                  <div key={i} style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start', padding: '1rem', backgroundColor: ex.ctx === 'business' ? '#F0FDF4' : '#FFFFFF', border: '1px solid', borderColor: ex.ctx === 'business' ? '#D1FAE5' : 'var(--border-color)', borderRadius: 'var(--radius-md)' }}>
+                    <div style={{ marginTop: '0.125rem' }}>
+                      {ex.ctx === 'business' ? <Briefcase size={20} color="#10B981" /> : <User size={20} color="#3B82F6" />}
+                    </div>
+                    <div>
+                      <div style={{ fontSize: '1rem', fontWeight: '500', color: 'var(--text-primary)', marginBottom: '0.25rem' }}>{ex.text}</div>
+                      <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>{ex.meaning}</div>
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
-
-          <p style={{ color: 'var(--text-primary)', marginBottom: '1.5rem', fontSize: '1.05rem', lineHeight: '1.6' }}>
-            <strong>Bản chất:</strong> {grammar.explanation}
+        ))}
+        
+        <div className="card">
+          <h3 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <Lightbulb size={20} color="#F59E0B" /> Mindset cho người đi làm
+          </h3>
+          <p style={{ marginTop: '1rem', color: 'var(--text-secondary)', lineHeight: '1.6' }}>
+            Ngữ pháp không phải là công thức toán học chết cứng. Bằng cách quan sát <strong>Cấu trúc</strong> đi liền với <strong>5 ví dụ lặp lại ở cả đời sống và công việc</strong>, bạn sẽ tự động "cảm" được từ đó, giống như cách người bản xứ tư duy. Hãy thử lấy một ví dụ Doanh nghiệp ở trên và tự thay đổi chủ ngữ/tân ngữ cho phù hợp với công ty của bạn.
           </p>
-
-          <div style={{ backgroundColor: '#F8FAFC', padding: '1rem 1.5rem', borderRadius: 'var(--radius-md)', borderLeft: '3px solid #94A3B8', marginBottom: '2rem' }}>
-            <h4 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.75rem', color: '#334155' }}>
-              <Layers size={18} /> Cấu trúc câu
-            </h4>
-            <ul style={{ listStyleType: 'disc', paddingLeft: '1.5rem', color: '#475569', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
-              {grammar.structures.map((struct, i) => (
-                <li key={i} style={{ fontSize: '0.95rem' }}>{struct}</li>
-              ))}
-            </ul>
-          </div>
-
-          <div>
-            <h4 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1rem', color: 'var(--primary-color)' }}>
-              <BookOpen size={18} /> 5 Ví dụ ứng dụng
-            </h4>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
-              {grammar.examples.map((ex, i) => (
-                <div key={i} style={{ display: 'flex', gap: '1rem', alignItems: 'flex-start', padding: '1rem', backgroundColor: ex.ctx === 'business' ? '#F0FDF4' : '#FFFFFF', border: '1px solid', borderColor: ex.ctx === 'business' ? '#D1FAE5' : 'var(--border-color)', borderRadius: 'var(--radius-md)' }}>
-                  <div style={{ marginTop: '0.125rem' }}>
-                    {ex.ctx === 'business' ? <Briefcase size={20} color="#10B981" /> : <User size={20} color="#3B82F6" />}
-                  </div>
-                  <div>
-                    <div style={{ fontSize: '1rem', fontWeight: '500', color: 'var(--text-primary)', marginBottom: '0.25rem' }}>{ex.text}</div>
-                    <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>{ex.meaning}</div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
         </div>
-      ))}
-      
-      <div className="card">
-        <h3 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-          <Lightbulb size={20} color="#F59E0B" /> Mindset cho người đi làm
-        </h3>
-        <p style={{ marginTop: '1rem', color: 'var(--text-secondary)', lineHeight: '1.6' }}>
-          Ngữ pháp không phải là công thức toán học chết cứng. Bằng cách quan sát <strong>Cấu trúc</strong> đi liền với <strong>5 ví dụ lặp lại ở cả đời sống và công việc</strong>, bạn sẽ tự động "cảm" được từ đó, giống như cách người bản xứ tư duy. Hãy thử lấy một ví dụ Doanh nghiệp ở trên và tự thay đổi chủ ngữ/tân ngữ cho phù hợp với công ty của bạn.
-        </p>
       </div>
     </div>
   );

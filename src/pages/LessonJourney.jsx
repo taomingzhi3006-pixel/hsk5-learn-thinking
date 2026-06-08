@@ -7,11 +7,12 @@ const steps = [
   { id: 'recognition', title: '1. Nhận diện', icon: Eye },
   { id: 'understanding', title: '2. Hiểu bản chất', icon: Brain },
   { id: 'listening', title: '3. Luyện nghe', icon: Headphones },
-  { id: 'sentence', title: '4. Đặt câu', icon: Edit2 },
-  { id: 'qna', title: '5. Trả lời câu hỏi', icon: HelpCircle },
-  { id: 'practice', title: '6. Trắc nghiệm', icon: PenTool },
-  { id: 'retell-story', title: '7. Tóm tắt', icon: FileText },
-  { id: 'assessment', title: '8. Đánh giá', icon: CheckSquare },
+  { id: 'translation', title: '4. Dịch ngược', icon: PenTool },
+  { id: 'sentence', title: '5. Đặt câu', icon: Edit2 },
+  { id: 'qna', title: '6. Trả lời câu hỏi', icon: HelpCircle },
+  { id: 'practice', title: '7. Trắc nghiệm', icon: PenTool },
+  { id: 'retell-story', title: '8. Tóm tắt', icon: FileText },
+  { id: 'assessment', title: '9. Đánh giá', icon: CheckSquare },
 ];
 
 export default function LessonJourney() {

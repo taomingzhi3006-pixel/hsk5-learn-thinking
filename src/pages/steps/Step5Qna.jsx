@@ -17,7 +17,7 @@ export default function Step5Qna() {
 
   return (
     <div className="animate-fade-in">
-      <h2 className="page-title">Bước 5: Trả lời câu hỏi</h2>
+      <h2 className="page-title">Bước 6: Trả lời câu hỏi</h2>
       <p className="page-subtitle" style={{ marginBottom: '2rem' }}>
         Kiểm tra độ hiểu sâu bài khóa thông qua các câu hỏi đọc hiểu và từ vựng.
       </p>

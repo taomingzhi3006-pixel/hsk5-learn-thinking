@@ -11,7 +11,7 @@ export default function Step4Sentence() {
 
   return (
     <div className="animate-fade-in">
-      <h2 className="page-title">Bước 4: Đặt câu</h2>
+      <h2 className="page-title">Bước 5: Đặt câu</h2>
       <p className="page-subtitle" style={{ marginBottom: '2rem' }}>
         Mỗi từ vựng, hãy tập tự đặt 2 câu theo 2 ngữ cảnh khác nhau: Bài Khóa (Story) và Doanh nghiệp (Business). Sau khi viết xong, mở xem câu mẫu để học hỏi cách hành văn.
       </p>
