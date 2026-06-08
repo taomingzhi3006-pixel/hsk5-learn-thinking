@@ -24,7 +24,7 @@ export default function Step5Retell() {
 
   return (
     <div>
-      <h2 className="page-title">Bước 8: Kể lại (Story Retelling)</h2>
+      <h2 className="page-title">Bước 8: Tóm tắt (Story Retelling)</h2>
       <p className="page-subtitle" style={{ marginBottom: '2rem' }}>
         Tự kể lại toàn bộ câu chuyện theo trình tự thời gian bằng ngôn từ của chính bạn. Phương pháp này giúp khắc sâu ngữ pháp và toàn bộ từ mới vào trí nhớ dài hạn.
       </p>

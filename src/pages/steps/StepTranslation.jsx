@@ -16,7 +16,7 @@ export default function StepTranslation() {
 
   return (
     <div className="animate-fade-in">
-      <h2 className="page-title">Bước 4: Dịch ngược (Reverse Translation)</h2>
+      <h2 className="page-title">Bước 6: Dịch ngược (Reverse Translation)</h2>
       <p className="page-subtitle" style={{ marginBottom: '2rem' }}>
         Luyện tư duy dịch thuật từ Tiếng Việt sang Tiếng Trung. Hãy tự dịch 20 câu dưới đây trước khi xem đáp án để khắc sâu từ vựng và ngữ pháp.
       </p>

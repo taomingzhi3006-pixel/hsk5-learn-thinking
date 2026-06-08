@@ -35,7 +35,7 @@ export default function Step4Practice() {
 
   return (
     <div>
-      <h2 className="page-title">Bước 7: Trắc nghiệm (Practice)</h2>
+      <h2 className="page-title">Bước 5: Thực hành (Cloze Test)</h2>
       <p className="page-subtitle" style={{ marginBottom: '2rem' }}>
         Hoàn thành các câu sau bằng cách chọn từ vựng phù hợp. Hệ thống gồm 100 câu xáo trộn ngữ cảnh: Bài khóa, Đời sống, và Doanh nghiệp.
       </p>
